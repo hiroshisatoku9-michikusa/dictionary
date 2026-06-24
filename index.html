@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Misreading Dictionary</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Private Lexicon</p>
+        <h1 data-i18n="title">Misreading Dictionary</h1>
+        <p class="lead" data-i18n="lead">Words that drift away from standard meaning and begin to carry your own distance.</p>
+      </div>
+      <div class="header-stats" aria-label="辞書の件数">
+        <span id="entryCount">0</span>
+        <small>entries</small>
+      </div>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="辞書の操作">
+        <div class="language-toggle" aria-label="Language">
+          <button id="langEn" class="active" type="button">EN</button>
+          <button id="langJa" type="button">JP</button>
+        </div>
+
+        <label class="search-box">
+          <span data-i18n="search">Search</span>
+          <input id="searchInput" type="search" placeholder="engawa, desire, distance..." autocomplete="off" />
+        </label>
+
+        <label class="select-box">
+          <span data-i18n="category">Category</span>
+          <select id="categoryFilter">
+            <option value="all" data-i18n="all">All</option>
+          </select>
+        </label>
+
+        <label class="select-box">
+          <span data-i18n="sort">Sort</span>
+          <select id="sortSelect">
+            <option value="rank" data-i18n="rankSort">Semantic distance</option>
+            <option value="term" data-i18n="termSort">Headword</option>
+            <option value="category" data-i18n="categorySort">Category</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="dictionary-layout">
+        <aside class="index-panel" aria-label="見出し語一覧">
+          <div class="panel-title" data-i18n="index">INDEX</div>
+          <nav id="termIndex"></nav>
+        </aside>
+
+        <section>
+          <div id="activeSummary" class="active-summary"></div>
+          <div id="cards" class="cards" aria-live="polite"></div>
+        </section>
+      </section>
+    </main>
+
+    <script src="dictionary-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

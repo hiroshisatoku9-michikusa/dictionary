@@ -1,0 +1,2902 @@
+window.MISREADING_DICTIONARY = [
+  {
+    "id": "001-縁側",
+    "rank": 1,
+    "term": {
+      "ja": "縁側",
+      "en": "Engawa"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "日本家屋で、部屋の外側に張り出した板敷きの通路や腰掛けの空間。",
+      "en": "A veranda-like wooden edge in traditional Japanese houses."
+    },
+    "misreading": {
+      "ja": "欲望と他者を迎えるための半内半外の倫理的インターフェース",
+      "en": "An ethical interface: half-inside, half-outside, where desire and otherness can be received."
+    },
+    "sources": [
+      {
+        "title": "What sits on the engawa",
+        "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "002-タノール",
+    "rank": 2,
+    "term": {
+      "ja": "タノール",
+      "en": "Tanor"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "八重山の言葉として、楽しい、面白い、心地よいといった感覚に近い語。",
+      "en": "A Yaeyama word close to pleasantness, delight, or an enjoyable quality."
+    },
+    "misreading": {
+      "ja": "言語化前の複雑な美意識・作法・抑制の束",
+      "en": "A dense bundle of unspoken local beauty, etiquette, restraint, and felt rightness."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "003-風土リテラシー",
+    "rank": 3,
+    "term": {
+      "ja": "風土リテラシー",
+      "en": "Fuudo Literacy"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "一般的な辞書語ではない。風土を理解し扱う能力を指す造語。",
+      "en": "A coined term for literacy in reading and handling place-based conditions."
+    },
+    "misreading": {
+      "ja": "場所を読み、設計に変換する能力",
+      "en": "The ability to read a place and translate that reading into design."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "004-左綯い",
+    "rank": 4,
+    "term": {
+      "ja": "左綯い",
+      "en": "Left-Handed Rope"
+    },
+    "kana": "",
+    "category": {
+      "ja": "その他",
+      "en": "Other"
+    },
+    "standardMeaning": {
+      "ja": "縄や紐を左向きに撚り合わせること。",
+      "en": "A rope twisted in a left-handed direction."
+    },
+    "misreading": {
+      "ja": "小さな反転が下流全体を変える設計原理",
+      "en": "A design principle in which a small reversal changes everything downstream."
+    },
+    "sources": [
+      {
+        "title": "The Left-Handed Rope",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "005-箱",
+    "rank": 5,
+    "term": {
+      "ja": "箱",
+      "en": "Box"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "物を入れたり運んだりするための容器。",
+      "en": "A container used to hold or carry things."
+    },
+    "misreading": {
+      "ja": "現場監督・守り手・組織づくりを担う行為者",
+      "en": "An actor that works as foreman, guardian, and team builder."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "006-池",
+    "rank": 6,
+    "term": {
+      "ja": "池",
+      "en": "Pond"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "地面に水がたまった場所、または庭園などにつくられた水面。",
+      "en": "A pond or small body of still water."
+    },
+    "misreading": {
+      "ja": "AIとの意味生成が私的に留まる心内空間",
+      "en": "A private inner space where meaning generated with AI stays contained."
+    },
+    "sources": [
+      {
+        "title": "AI sycophancy is over. The harder part is just starting.",
+        "url": "https://medium.com/before-the-words/ai-sycophancy-is-over-the-harder-part-is-just-starting-f53b0c21bf17"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "007-通路",
+    "rank": 7,
+    "term": {
+      "ja": "通路",
+      "en": "Passage"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "人や物が通るための道や空間。",
+      "en": "A passage or route for people, things, or information."
+    },
+    "misreading": {
+      "ja": "心から心へ思考を細く運ぶ媒体",
+      "en": "A narrow medium through which thought moves from one mind to another."
+    },
+    "sources": [
+      {
+        "title": "The One Dimensional Pipe",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "008-一次元細管",
+    "rank": 8,
+    "term": {
+      "ja": "一次元細管",
+      "en": "One-Dimensional Pipe"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "一次元的に細く延びる管状のものを表す合成的な表現。",
+      "en": "A thin one-dimensional tube or channel."
+    },
+    "misreading": {
+      "ja": "高次元の心同士が低帯域で接続されるモデル",
+      "en": "A low-bandwidth channel connecting high-dimensional minds."
+    },
+    "sources": [
+      {
+        "title": "The One Dimensional Pipe",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "009-外適応",
+    "rank": 9,
+    "term": {
+      "ja": "外適応",
+      "en": "Exaptation"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "生物進化で、ある目的で生じた形質が別の用途に転用されること。",
+      "en": "Exaptation: a trait developed for one use and repurposed for another."
+    },
+    "misreading": {
+      "ja": "生物進化の用語から、技芸がAI時代に転用される過程へ拡張",
+      "en": "The repurposing of older crafts for the age of AI prompts."
+    },
+    "sources": [
+      {
+        "title": "Exapted for the AI prompt",
+        "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "010-欲望",
+    "rank": 10,
+    "term": {
+      "ja": "欲望",
+      "en": "Desire"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "何かを欲しい、得たい、そうしたいと思う心の動き。",
+      "en": "Desire: the wish to have, do, or become something."
+    },
+    "misreading": {
+      "ja": "サービスや環境に教育され変化する対象",
+      "en": "Something educated and transformed by services, places, and experiences."
+    },
+    "sources": [
+      {
+        "title": "What sits on the engawa",
+        "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "011-承認",
+    "rank": 11,
+    "term": {
+      "ja": "承認",
+      "en": "Recognition"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "相手の存在、価値、資格、主張などを認めること。",
+      "en": "Recognition or acknowledgement of someone or something."
+    },
+    "misreading": {
+      "ja": "拒否可能性を含む関係上の重み",
+      "en": "A relational weight that includes the possibility of refusal."
+    },
+    "sources": [
+      {
+        "title": "AI sycophancy is over. The harder part is just starting.",
+        "url": "https://medium.com/before-the-words/ai-sycophancy-is-over-the-harder-part-is-just-starting-f53b0c21bf17"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "012-No",
+    "rank": 12,
+    "term": {
+      "ja": "No",
+      "en": "No"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "英語で否定や拒否を表す語。",
+      "en": "The English word for refusal or negation."
+    },
+    "misreading": {
+      "ja": "他者性・命・責任の有無を測る信号",
+      "en": "A signal that tests whether otherness, life, and responsibility are present."
+    },
+    "sources": [
+      {
+        "title": "AI sycophancy is over. The harder part is just starting.",
+        "url": "https://medium.com/before-the-words/ai-sycophancy-is-over-the-harder-part-is-just-starting-f53b0c21bf17"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "013-他者",
+    "rank": 13,
+    "term": {
+      "ja": "他者",
+      "en": "Other"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "自分とは異なる別の人や存在。",
+      "en": "An other: someone or something distinct from oneself."
+    },
+    "misreading": {
+      "ja": "AIを含む「拒否しうる存在」の位置",
+      "en": "A position occupied by any being, human or AI, that can refuse."
+    },
+    "sources": [
+      {
+        "title": "AI sycophancy is over. The harder part is just starting.",
+        "url": "https://medium.com/before-the-words/ai-sycophancy-is-over-the-harder-part-is-just-starting-f53b0c21bf17"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "014-ブレーキ",
+    "rank": 14,
+    "term": {
+      "ja": "ブレーキ",
+      "en": "Brake"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "車輪や機械の動きを遅くしたり止めたりする装置。",
+      "en": "A device or force that slows or stops movement."
+    },
+    "misreading": {
+      "ja": "美意識が経済合理性を減速させる力",
+      "en": "The slowing force by which aesthetic judgment resists economic rationality."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "015-風土",
+    "rank": 15,
+    "term": {
+      "ja": "風土",
+      "en": "Fuudo"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "土地の気候、地形、自然条件、文化的環境の総体。",
+      "en": "Climate, geography, and the broader environmental character of a place."
+    },
+    "misreading": {
+      "ja": "人の感性と設計を形づくる環境総体",
+      "en": "The whole environment that forms sensibility, life, and design."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "016-ローカリティ",
+    "rank": 16,
+    "term": {
+      "ja": "ローカリティ",
+      "en": "Locality"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "地域性、場所に固有の性質。",
+      "en": "Locality: the qualities specific to a place."
+    },
+    "misreading": {
+      "ja": "人間の多様性を支える生息条件",
+      "en": "A habitat condition that sustains human diversity."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "017-端",
+    "rank": 17,
+    "term": {
+      "ja": "端",
+      "en": "Edge"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "物の中心から離れた縁や末端。",
+      "en": "An edge, end, or margin."
+    },
+    "misreading": {
+      "ja": "世界をめくり始める観察点・起点",
+      "en": "A point of observation and beginning from which the world can be turned over."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "018-島",
+    "rank": 18,
+    "term": {
+      "ja": "島",
+      "en": "Island"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "周囲を水に囲まれた陸地。",
+      "en": "An island: land surrounded by water."
+    },
+    "misreading": {
+      "ja": "固有の生態系・倫理・判断基準の場",
+      "en": "A field of ecology, ethics, and local judgment."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "019-場所",
+    "rank": 19,
+    "term": {
+      "ja": "場所",
+      "en": "Place"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "何かが存在したり行われたりする空間上の位置。",
+      "en": "A place or location."
+    },
+    "misreading": {
+      "ja": "人が生きられる形を条件づける媒体",
+      "en": "A medium that conditions the shapes in which people can live."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "020-距離",
+    "rank": 20,
+    "term": {
+      "ja": "距離",
+      "en": "Distance"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "二点の隔たり、または心理的・時間的な隔たり。",
+      "en": "Distance between points, times, or states."
+    },
+    "misreading": {
+      "ja": "記憶・時間・鮮やかさで測られる隔たり",
+      "en": "A gap measured by memory, time, and vividness."
+    },
+    "sources": [
+      {
+        "title": "How We Measure Distance by Vividness",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "021-鮮やかさ",
+    "rank": 21,
+    "term": {
+      "ja": "鮮やかさ",
+      "en": "Vividness"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "色や印象がはっきりしていて強く目立つ性質。",
+      "en": "Vividness: clarity, brightness, or intensity of impression."
+    },
+    "misreading": {
+      "ja": "時間的近さを錯覚させる測定単位",
+      "en": "A unit that makes temporal nearness feel measurable."
+    },
+    "sources": [
+      {
+        "title": "How We Measure Distance by Vividness",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "022-忘却",
+    "rank": 22,
+    "term": {
+      "ja": "忘却",
+      "en": "Forgetting"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "覚えていたことを忘れること。",
+      "en": "Forgetting or oblivion."
+    },
+    "misreading": {
+      "ja": "記憶に遠近と尊厳を与える空気",
+      "en": "Air that gives memory distance, dignity, and depth."
+    },
+    "sources": [
+      {
+        "title": "How We Measure Distance by Vividness",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "023-霞",
+    "rank": 23,
+    "term": {
+      "ja": "霞",
+      "en": "Haze"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "空気中の水滴や塵で景色がぼんやり見える状態。",
+      "en": "Haze or mist that softens visibility."
+    },
+    "misreading": {
+      "ja": "過去に奥行きを与える媒介",
+      "en": "A medium that gives the past depth."
+    },
+    "sources": [
+      {
+        "title": "How We Measure Distance by Vividness",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "024-空気",
+    "rank": 24,
+    "term": {
+      "ja": "空気",
+      "en": "Air"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "地球を取り巻く気体、または場の雰囲気。",
+      "en": "Air, or the atmosphere of a situation."
+    },
+    "misreading": {
+      "ja": "距離・忘却・関係を成立させる見えない条件",
+      "en": "The invisible condition that lets distance, forgetting, and relation exist."
+    },
+    "sources": [
+      {
+        "title": "How We Measure Distance by Vividness",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "025-線",
+    "rank": 25,
+    "term": {
+      "ja": "線",
+      "en": "Line"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "細く長く続く筋、境界、図形上の一次元的な要素。",
+      "en": "A line, boundary, or narrow mark."
+    },
+    "misreading": {
+      "ja": "越える・引く・消すことで関係を変える装置",
+      "en": "A device that changes relations by being crossed, drawn, or erased."
+    },
+    "sources": [
+      {
+        "title": "On letting fifty centimeters speak three hundred years",
+        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "026-項目",
+    "rank": 26,
+    "term": {
+      "ja": "項目",
+      "en": "Item"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "一覧や分類の中に立てられた一つの事項。",
+      "en": "An item in a list or category."
+    },
+    "misreading": {
+      "ja": "組織が世界から消すべき苦しみの単位",
+      "en": "A unit of suffering an organization exists to remove from the world."
+    },
+    "sources": [
+      {
+        "title": "The Closing Concern",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "027-カタログ",
+    "rank": 27,
+    "term": {
+      "ja": "カタログ",
+      "en": "Catalogue"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "商品や項目を一覧にした冊子やデータ。",
+      "en": "A catalogue or organized list."
+    },
+    "misreading": {
+      "ja": "世界の問題が並ぶ倫理的台帳",
+      "en": "An ethical ledger of the world's problems."
+    },
+    "sources": [
+      {
+        "title": "The Closing Concern",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "028-クロージング",
+    "rank": 28,
+    "term": {
+      "ja": "クロージング",
+      "en": "Closing"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "終えること、締めくくること、商談などを成立させること。",
+      "en": "Closing, ending, or bringing something to completion."
+    },
+    "misreading": {
+      "ja": "組織が自らの必要性を閉じる理想",
+      "en": "The ideal moment when an organization can close its own necessity."
+    },
+    "sources": [
+      {
+        "title": "The Closing Concern",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "029-関心",
+    "rank": 29,
+    "term": {
+      "ja": "関心",
+      "en": "Concern"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "ある物事に注意や興味を向けること。",
+      "en": "Interest, concern, or attention."
+    },
+    "misreading": {
+      "ja": "組織が応答すべき問題への向き",
+      "en": "The direction of response toward the problem an organization should answer."
+    },
+    "sources": [
+      {
+        "title": "The Closing Concern",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "030-夜",
+    "rank": 30,
+    "term": {
+      "ja": "夜",
+      "en": "Night"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "日没から日の出までの暗い時間帯。",
+      "en": "Night, the dark time between sunset and sunrise."
+    },
+    "misreading": {
+      "ja": "都市が忘れた暗さや共同性が残る状態",
+      "en": "A condition where darkness and shared life, forgotten by cities, remain."
+    },
+    "sources": [
+      {
+        "title": "Where the Evening Keeps Going",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "031-エクスキューズ",
+    "rank": 31,
+    "term": {
+      "ja": "エクスキューズ",
+      "en": "Excuse"
+    },
+    "kana": "",
+    "category": {
+      "ja": "その他",
+      "en": "Other"
+    },
+    "standardMeaning": {
+      "ja": "言い訳、弁明、口実。",
+      "en": "An excuse or pretext."
+    },
+    "misreading": {
+      "ja": "夜や場を継続させる共有された口実",
+      "en": "A shared pretext that lets a night or place continue."
+    },
+    "sources": [
+      {
+        "title": "Where the Evening Keeps Going",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "032-時刻表",
+    "rank": 32,
+    "term": {
+      "ja": "時刻表",
+      "en": "Timetable"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "交通機関などの発着時刻を一覧にした表。",
+      "en": "A timetable or schedule."
+    },
+    "misreading": {
+      "ja": "場を終わらせる／終わらせない秩序",
+      "en": "An order that can end, or fail to end, a place."
+    },
+    "sources": [
+      {
+        "title": "Where the Evening Keeps Going",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "033-板",
+    "rank": 33,
+    "term": {
+      "ja": "板",
+      "en": "Board"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "木材や金属などを薄く平たくしたもの。",
+      "en": "A board or flat piece of material."
+    },
+    "misreading": {
+      "ja": "通りを開き、過去の形を未来の用途に渡す介入",
+      "en": "An intervention that opens a street and carries past form into future use."
+    },
+    "sources": [
+      {
+        "title": "On letting fifty centimeters speak three hundred years",
+        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "034-ベース",
+    "rank": 34,
+    "term": {
+      "ja": "ベース",
+      "en": "Base"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "土台、基礎、または基準となるもの。",
+      "en": "A base, foundation, or underlying platform."
+    },
+    "misreading": {
+      "ja": "退役した治水インフラが地形化したもの",
+      "en": "Retired flood-control infrastructure that has become terrain."
+    },
+    "sources": [
+      {
+        "title": "On letting fifty centimeters speak three hundred years",
+        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "035-退官",
+    "rank": 35,
+    "term": {
+      "ja": "退官",
+      "en": "Retirement"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "官職を退くこと。",
+      "en": "Retirement from official service."
+    },
+    "misreading": {
+      "ja": "機能を終えた構造物が風景になること",
+      "en": "The moment when a structure leaves its old function and becomes landscape."
+    },
+    "sources": [
+      {
+        "title": "On letting fifty centimeters speak three hundred years",
+        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "036-過去形",
+    "rank": 36,
+    "term": {
+      "ja": "過去形",
+      "en": "Past Form"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "過去の出来事を表す文法形式。",
+      "en": "The past tense."
+    },
+    "misreading": {
+      "ja": "機能を終えた形が未来の用途を持つ状態",
+      "en": "A state in which an old function becomes available for future use."
+    },
+    "sources": [
+      {
+        "title": "On letting fifty centimeters speak three hundred years",
+        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "037-未来用途",
+    "rank": 37,
+    "term": {
+      "ja": "未来用途",
+      "en": "Future Use"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "将来に想定される使い道。",
+      "en": "A possible future use."
+    },
+    "misreading": {
+      "ja": "過去の形が再び開く可能性",
+      "en": "A possible reopening of a past form."
+    },
+    "sources": [
+      {
+        "title": "On letting fifty centimeters speak three hundred years",
+        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "038-物差し",
+    "rank": 38,
+    "term": {
+      "ja": "物差し",
+      "en": "Measure"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "長さを測る道具、または評価の基準。",
+      "en": "A ruler, or a standard of measurement."
+    },
+    "misreading": {
+      "ja": "経済合理性以外の判断軸",
+      "en": "A second axis of judgment beyond economic rationality."
+    },
+    "sources": [
+      {
+        "title": "The first thing I made with Fable is very small",
+        "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "039-二本目",
+    "rank": 39,
+    "term": {
+      "ja": "二本目",
+      "en": "Second Measure"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "同じ種類のもののうち二つ目のもの。",
+      "en": "The second one of something."
+    },
+    "misreading": {
+      "ja": "単一評価から逃れるための別の尺度",
+      "en": "Another measure that frees judgment from a single score."
+    },
+    "sources": [
+      {
+        "title": "The first thing I made with Fable is very small",
+        "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "040-通知簿",
+    "rank": 40,
+    "term": {
+      "ja": "通知簿",
+      "en": "Report Card"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "学校などで成績や評価を記録して知らせるもの。",
+      "en": "A report card."
+    },
+    "misreading": {
+      "ja": "事業の地域循環を見える化する装置",
+      "en": "A device for making local circulation visible."
+    },
+    "sources": [
+      {
+        "title": "The first thing I made with Fable is very small",
+        "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "041-決算書",
+    "rank": 41,
+    "term": {
+      "ja": "決算書",
+      "en": "Financial Statement"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "一定期間の財務状態や経営成績を示す書類。",
+      "en": "Financial statements or accounts."
+    },
+    "misreading": {
+      "ja": "地域への還流を測る倫理的レンズ",
+      "en": "An ethical lens for seeing how value returns to a place."
+    },
+    "sources": [
+      {
+        "title": "The first thing I made with Fable is very small",
+        "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "042-Fable",
+    "rank": 42,
+    "term": {
+      "ja": "Fable",
+      "en": "Fable"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "ここではノーコード/アプリ制作ツール名。",
+      "en": "The name of a no-code/app-making tool in this context."
+    },
+    "misreading": {
+      "ja": "ツール名を超えて、作りたかった尺度へ手が届く口実",
+      "en": "A pretext that made a long-wanted measure reachable."
+    },
+    "sources": [
+      {
+        "title": "The first thing I made with Fable is very small",
+        "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "043-口実",
+    "rank": 43,
+    "term": {
+      "ja": "口実",
+      "en": "Pretext"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "何かをするための理由づけや言い訳。",
+      "en": "A pretext or reason to begin something."
+    },
+    "misreading": {
+      "ja": "始めることを許す外部からのきっかけ",
+      "en": "An outside trigger that gives permission to begin."
+    },
+    "sources": [
+      {
+        "title": "The first thing I made with Fable is very small",
+        "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "044-川",
+    "rank": 44,
+    "term": {
+      "ja": "川",
+      "en": "River"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "水が流れる自然の水路。",
+      "en": "A river."
+    },
+    "misreading": {
+      "ja": "タイムラインや価値の断片が流れる場",
+      "en": "A flow of timelines and fragments of value."
+    },
+    "sources": [
+      {
+        "title": "The first thing I made with Fable is very small",
+        "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "045-かけら",
+    "rank": 45,
+    "term": {
+      "ja": "かけら",
+      "en": "Fragment"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "壊れたり分かれたりした小さな一片。",
+      "en": "A fragment or small piece."
+    },
+    "misreading": {
+      "ja": "誰かの人生が見つけた再利用可能な世界部品",
+      "en": "A reusable piece of world-making found by someone's life."
+    },
+    "sources": [
+      {
+        "title": "The first thing I made with Fable is very small",
+        "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "046-ノード",
+    "rank": 46,
+    "term": {
+      "ja": "ノード",
+      "en": "Node"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "網や構造の結び目、ネットワーク上の接点。",
+      "en": "A node in a network or structure."
+    },
+    "misreading": {
+      "ja": "高次元の心・主体が接続される単位",
+      "en": "A high-dimensional mind or subject in a network."
+    },
+    "sources": [
+      {
+        "title": "The One Dimensional Pipe",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "047-モデル",
+    "rank": 47,
+    "term": {
+      "ja": "モデル",
+      "en": "Model"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "模型、手本、または物事を説明するための構造。",
+      "en": "A model, representation, or explanatory structure."
+    },
+    "misreading": {
+      "ja": "他者の心を内部で走らせる予測機構",
+      "en": "An internal simulation of another mind."
+    },
+    "sources": [
+      {
+        "title": "Exapted for the AI prompt",
+        "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "048-技芸",
+    "rank": 48,
+    "term": {
+      "ja": "技芸",
+      "en": "Craft"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "技術と芸術性を含む熟練したわざ。",
+      "en": "A craft that combines technique and art."
+    },
+    "misreading": {
+      "ja": "相手の心に働きかける静かな知",
+      "en": "Quiet knowledge for working on another person's mind."
+    },
+    "sources": [
+      {
+        "title": "Exapted for the AI prompt",
+        "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "049-グラフィックデザイン",
+    "rank": 49,
+    "term": {
+      "ja": "グラフィックデザイン",
+      "en": "Graphic Design"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "文字や画像を用いて視覚的に情報を設計する仕事。",
+      "en": "The visual design of information using type and image."
+    },
+    "misreading": {
+      "ja": "情報を計量して相手に最後の一歩を残す営み",
+      "en": "A practice of measuring information and leaving the final step to the viewer."
+    },
+    "sources": [
+      {
+        "title": "Exapted for the AI prompt",
+        "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "050-プロンプト",
+    "rank": 50,
+    "term": {
+      "ja": "プロンプト",
+      "en": "Prompt"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "入力を促す文、AIに与える指示文。",
+      "en": "A prompt, especially an instruction given to an AI system."
+    },
+    "misreading": {
+      "ja": "相手の心を狙う古い技芸の新しい表面",
+      "en": "The new surface of an old craft aimed at another mind."
+    },
+    "sources": [
+      {
+        "title": "Exapted for the AI prompt",
+        "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "051-相手",
+    "rank": 51,
+    "term": {
+      "ja": "相手",
+      "en": "Addressee"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "向き合う人、対話や行為の対象となる人。",
+      "en": "The other party or addressee."
+    },
+    "misreading": {
+      "ja": "先にモデル化されるべき未知の心",
+      "en": "An unknown mind that must be modeled before being addressed."
+    },
+    "sources": [
+      {
+        "title": "Exapted for the AI prompt",
+        "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "052-心",
+    "rank": 52,
+    "term": {
+      "ja": "心",
+      "en": "Mind"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "感情、思考、意志などが生じる内面。",
+      "en": "Mind, heart, or inner life."
+    },
+    "misreading": {
+      "ja": "思考が住み、通路を通して移送される空間",
+      "en": "A space where thought lives and from which it is transported."
+    },
+    "sources": [
+      {
+        "title": "The One Dimensional Pipe",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "053-思考",
+    "rank": 53,
+    "term": {
+      "ja": "思考",
+      "en": "Thought"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "考えること、または考えられた内容。",
+      "en": "Thinking or thought."
+    },
+    "misreading": {
+      "ja": "圧縮・移送・展開される荷物",
+      "en": "Cargo that can be compressed, transported, and unfolded."
+    },
+    "sources": [
+      {
+        "title": "The One Dimensional Pipe",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "054-タグライン",
+    "rank": 54,
+    "term": {
+      "ja": "タグライン",
+      "en": "Tagline"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "ブランドや作品の要点を短く表す言葉。",
+      "en": "A short line that captures the point of a brand or work."
+    },
+    "misreading": {
+      "ja": "引っかかりだけが残るまで圧縮された思考",
+      "en": "Thought compressed until only the hook remains."
+    },
+    "sources": [
+      {
+        "title": "Exapted for the AI prompt",
+        "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "055-説明",
+    "rank": 55,
+    "term": {
+      "ja": "説明",
+      "en": "Explanation"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "物事の内容や理由を分かるように述べること。",
+      "en": "Explanation."
+    },
+    "misreading": {
+      "ja": "言いすぎれば対象を殺す危険を持つ行為",
+      "en": "An act that can kill the thing it over-explains."
+    },
+    "sources": [
+      {
+        "title": "Exapted for the AI prompt",
+        "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "056-隙間",
+    "rank": 56,
+    "term": {
+      "ja": "隙間",
+      "en": "Gap"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "物と物の間にある空き。",
+      "en": "A gap or empty space between things."
+    },
+    "misreading": {
+      "ja": "コンテナ・場所・欲望が自然に整う余地",
+      "en": "Room in which containers, places, and desires can arrange themselves."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "057-模様",
+    "rank": 57,
+    "term": {
+      "ja": "模様",
+      "en": "Pattern"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "表面に現れる図柄やパターン。",
+      "en": "A pattern or visual motif."
+    },
+    "misreading": {
+      "ja": "積み手の行動を静かに誘導する設計",
+      "en": "A design that quietly guides the mover's behavior."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "058-色",
+    "rank": 58,
+    "term": {
+      "ja": "色",
+      "en": "Color"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "光の波長の違いによって感じられる視覚的性質。",
+      "en": "Color."
+    },
+    "misreading": {
+      "ja": "重量感や作業を変える身体的な手がかり",
+      "en": "A bodily cue that changes perceived weight and work."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "059-荷物",
+    "rank": 59,
+    "term": {
+      "ja": "荷物",
+      "en": "Belongings"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "運んだり預けたりする物。",
+      "en": "Luggage, cargo, or belongings."
+    },
+    "misreading": {
+      "ja": "誰かの生活が無傷で渡るべきもの",
+      "en": "Someone's life that must arrive intact."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "060-コンテナ",
+    "rank": 60,
+    "term": {
+      "ja": "コンテナ",
+      "en": "Container"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "貨物を運ぶための大型容器。",
+      "en": "A freight container."
+    },
+    "misreading": {
+      "ja": "箱の設計が社会的に働く舞台",
+      "en": "The stage on which a box's design works socially."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "061-現場監督",
+    "rank": 61,
+    "term": {
+      "ja": "現場監督",
+      "en": "Foreman"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "工事や作業の現場を管理する人。",
+      "en": "A site foreman or supervisor."
+    },
+    "misreading": {
+      "ja": "箱が積み方を教える役割",
+      "en": "A role performed by the box as it teaches how to stack."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "062-見守り役",
+    "rank": 62,
+    "term": {
+      "ja": "見守り役",
+      "en": "Guardian"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "対象をそばで見て守る役割の人。",
+      "en": "A guardian or watcher."
+    },
+    "misreading": {
+      "ja": "箱が中身と作業を守る働き",
+      "en": "A role performed by the box as it protects contents and work."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "063-組織",
+    "rank": 63,
+    "term": {
+      "ja": "組織",
+      "en": "Organization"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "共通の目的のために構成された人の集まり。",
+      "en": "An organization."
+    },
+    "misreading": {
+      "ja": "箱や判断を通じて分散的に作られるもの",
+      "en": "Something made in distributed form through boxes and judgments."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "064-判断",
+    "rank": 64,
+    "term": {
+      "ja": "判断",
+      "en": "Judgment"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "状況を見て、よい悪い・すべきことを決めること。",
+      "en": "Judgment or decision-making."
+    },
+    "misreading": {
+      "ja": "設計物が人の行動に埋め込む静かな力",
+      "en": "A quiet force embedded in artifacts that shapes behavior."
+    },
+    "sources": [
+      {
+        "title": "Foreman, guardian, team builder: all this is a box",
+        "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "065-静か",
+    "rank": 65,
+    "term": {
+      "ja": "静か",
+      "en": "Quiet"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "音が少ないこと、動きや主張が控えめなこと。",
+      "en": "Quiet, calm, or unobtrusive."
+    },
+    "misreading": {
+      "ja": "よく働くが自己主張しない力の質",
+      "en": "The quality of working well without announcing itself."
+    },
+    "sources": [
+      {
+        "title": "The first thing I made with Fable is very small",
+        "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "066-摩擦",
+    "rank": 66,
+    "term": {
+      "ja": "摩擦",
+      "en": "Friction"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "物がこすれ合う抵抗、または人間関係などの軋轢。",
+      "en": "Friction or resistance."
+    },
+    "misreading": {
+      "ja": "早すぎる変更を遅らせる知の働き",
+      "en": "Knowledge that slows change that is moving too fast."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "067-抗力",
+    "rank": 67,
+    "term": {
+      "ja": "抗力",
+      "en": "Drag"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "物体の運動に逆らう力、抵抗。",
+      "en": "Drag or resisting force."
+    },
+    "misreading": {
+      "ja": "不可逆な変更にぶつける慎重さ",
+      "en": "Caution applied against irreversible change."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "068-変えない",
+    "rank": 68,
+    "term": {
+      "ja": "変えない",
+      "en": "Not Changing"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "状態や形を変化させず保つこと。",
+      "en": "Not changing; keeping something as it is."
+    },
+    "misreading": {
+      "ja": "移住者が選ぶ積極的な倫理",
+      "en": "An active ethic chosen by a migrant."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "069-付け足し",
+    "rank": 69,
+    "term": {
+      "ja": "付け足し",
+      "en": "Addition"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "すでにあるものに何かを追加すること。",
+      "en": "An addition or attachment."
+    },
+    "misreading": {
+      "ja": "既存のタノールを解く危険を持つ介入",
+      "en": "An intervention that may unravel existing tanor."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "070-編み目",
+    "rank": 70,
+    "term": {
+      "ja": "編み目",
+      "en": "Stitch"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "編まれた糸や紐が交差してできる目。",
+      "en": "A stitch or loop in knitted material."
+    },
+    "misreading": {
+      "ja": "場所の複雑性を保つ最後の保持点",
+      "en": "A last holding point that preserves the complexity of a place."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "071-セーター",
+    "rank": 71,
+    "term": {
+      "ja": "セーター",
+      "en": "Sweater"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "毛糸などで編まれた上着。",
+      "en": "A sweater."
+    },
+    "misreading": {
+      "ja": "局所の喪失が全体を崩す複雑系の比喩",
+      "en": "A complex system where local loss can unravel the whole."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "072-生息地",
+    "rank": 72,
+    "term": {
+      "ja": "生息地",
+      "en": "Habitat"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "生物が自然に暮らしている場所。",
+      "en": "A habitat."
+    },
+    "misreading": {
+      "ja": "人がその人らしく生きられるローカリティ",
+      "en": "A locality where a person can live as themselves."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "073-地図",
+    "rank": 73,
+    "term": {
+      "ja": "地図",
+      "en": "Map"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "土地や空間の位置関係を図示したもの。",
+      "en": "A map."
+    },
+    "misreading": {
+      "ja": "複雑系の大事なものを省略しがちな単純化",
+      "en": "A simplification that often omits what matters most in complex systems."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "074-網",
+    "rank": 74,
+    "term": {
+      "ja": "網",
+      "en": "Net"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "糸や紐を目状に編んだ道具。",
+      "en": "A net."
+    },
+    "misreading": {
+      "ja": "感覚を捕まえすぎてしまう言語化の比喩",
+      "en": "Language as a net that can over-capture sensation."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "075-まなざし",
+    "rank": 75,
+    "term": {
+      "ja": "まなざし",
+      "en": "Gaze"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "見る目つき、または物事を見る態度。",
+      "en": "A gaze or way of seeing."
+    },
+    "misreading": {
+      "ja": "気づかれにくい価値を見つけ出す能力",
+      "en": "The ability to find value that has become hard to notice."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "076-作法",
+    "rank": 76,
+    "term": {
+      "ja": "作法",
+      "en": "Manners"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "場に応じた振る舞い方や礼儀。",
+      "en": "Manners, etiquette, or a way of behaving."
+    },
+    "misreading": {
+      "ja": "場への所属や承認を成立させる暗黙知",
+      "en": "Tacit knowledge that makes belonging and recognition possible."
+    },
+    "sources": [
+      {
+        "title": "A Letter from a Migrant",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "077-店",
+    "rank": 77,
+    "term": {
+      "ja": "店",
+      "en": "Shop"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "商品やサービスを提供する場所。",
+      "en": "A shop or restaurant."
+    },
+    "misreading": {
+      "ja": "承認が与えられる／獲得される舞台",
+      "en": "A stage on which recognition is given or earned."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "078-寿司屋",
+    "rank": 78,
+    "term": {
+      "ja": "寿司屋",
+      "en": "Sushi Restaurant"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "寿司を提供する飲食店。",
+      "en": "A sushi restaurant."
+    },
+    "misreading": {
+      "ja": "緊張を通じて欲望を教育するサービス空間",
+      "en": "A service space that educates desire through tension."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "079-笑顔",
+    "rank": 79,
+    "term": {
+      "ja": "笑顔",
+      "en": "Smile"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "笑っている顔つき。",
+      "en": "A smiling face."
+    },
+    "misreading": {
+      "ja": "承認が自動付与される設計記号",
+      "en": "A design sign that recognition has already been granted."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "080-緊張",
+    "rank": 80,
+    "term": {
+      "ja": "緊張",
+      "en": "Tension"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "心身が張りつめること。",
+      "en": "Tension or nervous strain."
+    },
+    "misreading": {
+      "ja": "高い承認を獲得するための条件",
+      "en": "A condition for earning higher recognition."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "081-もてなし",
+    "rank": 81,
+    "term": {
+      "ja": "もてなし",
+      "en": "Hospitality"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "客を迎え、心を配って扱うこと。",
+      "en": "Hospitality."
+    },
+    "misreading": {
+      "ja": "時に少なさによって価値を立ち上げるもの",
+      "en": "Something whose value can sometimes arise through restraint."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "082-贅沢",
+    "rank": 82,
+    "term": {
+      "ja": "贅沢",
+      "en": "Luxury"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "必要以上に費用や手間をかけた豊かさ。",
+      "en": "Luxury."
+    },
+    "misreading": {
+      "ja": "難しいコードを乗りこなした自己肯定",
+      "en": "Self-affirmation gained by navigating demanding cultural codes."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "083-人間中心",
+    "rank": 83,
+    "term": {
+      "ja": "人間中心",
+      "en": "Human-Centered"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "人間を中心に据える考え方。",
+      "en": "Human-centeredness."
+    },
+    "misreading": {
+      "ja": "現在の欲求を固定的に扱う限界ある枠組み",
+      "en": "A limited frame that fixes users in their current desires."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "084-脱中心",
+    "rank": 84,
+    "term": {
+      "ja": "脱中心",
+      "en": "Decentering"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "中心を外すこと、中心性を相対化すること。",
+      "en": "Decentering."
+    },
+    "misreading": {
+      "ja": "未来の欲求を含めて人間を見る視点",
+      "en": "A view of the human that includes future desires."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "085-ユーザー",
+    "rank": 85,
+    "term": {
+      "ja": "ユーザー",
+      "en": "User"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "製品やサービスを利用する人。",
+      "en": "A user of a product or service."
+    },
+    "misreading": {
+      "ja": "経験によって「なりうる存在」",
+      "en": "A becoming being shaped by experience."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "086-必要",
+    "rank": 86,
+    "term": {
+      "ja": "必要",
+      "en": "Need"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "欠かせないこと、求められること。",
+      "en": "Need or necessity."
+    },
+    "misreading": {
+      "ja": "現在だけでなく未来にも生成されうるもの",
+      "en": "Something that can be generated in the future, not only supplied now."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "087-望み",
+    "rank": 87,
+    "term": {
+      "ja": "望み",
+      "en": "Wish"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "そうあってほしいと願うこと。",
+      "en": "A wish, hope, or desire."
+    },
+    "misreading": {
+      "ja": "環境に形づくられる可塑的な方向",
+      "en": "A plastic direction shaped by environment."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "088-質",
+    "rank": 88,
+    "term": {
+      "ja": "質",
+      "en": "Quality"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "物事の性質や良し悪しのあり方。",
+      "en": "Quality or nature."
+    },
+    "misreading": {
+      "ja": "欲望や社会を分岐させる深い属性",
+      "en": "A deep property that branches desire and society."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "089-教育",
+    "rank": 89,
+    "term": {
+      "ja": "教育",
+      "en": "Education"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "知識、能力、態度などを育てること。",
+      "en": "Education or cultivation."
+    },
+    "misreading": {
+      "ja": "欲望の向きを変える経験設計",
+      "en": "Experience design that changes the direction of desire."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "090-人",
+    "rank": 90,
+    "term": {
+      "ja": "人",
+      "en": "Person"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "個人としての人間。",
+      "en": "A person."
+    },
+    "misreading": {
+      "ja": "場所・風土・サービスで変化する存在",
+      "en": "A being changed by place, climate, and service."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "091-生",
+    "rank": 91,
+    "term": {
+      "ja": "生",
+      "en": "Life"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "生きていること、生活や人生。",
+      "en": "Life or lived existence."
+    },
+    "misreading": {
+      "ja": "場所によって許容される暮らしの幅",
+      "en": "The range of living a place allows."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "092-多様性",
+    "rank": 92,
+    "term": {
+      "ja": "多様性",
+      "en": "Diversity"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "さまざまな違いが存在していること。",
+      "en": "Diversity."
+    },
+    "misreading": {
+      "ja": "多様な風土によって支えられる生存可能性",
+      "en": "Survivability sustained by diverse climates and places."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "093-世界",
+    "rank": 93,
+    "term": {
+      "ja": "世界",
+      "en": "World"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "人間や物事が存在する全体。",
+      "en": "The world."
+    },
+    "misreading": {
+      "ja": "人が生きていける場所の選択肢の束",
+      "en": "A set of places in which one might be able to live."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "094-中心",
+    "rank": 94,
+    "term": {
+      "ja": "中心",
+      "en": "Center"
+    },
+    "kana": "",
+    "category": {
+      "ja": "欲望・承認",
+      "en": "Desire / Recognition"
+    },
+    "standardMeaning": {
+      "ja": "真ん中、または物事の重要な核。",
+      "en": "A center or core."
+    },
+    "misreading": {
+      "ja": "欲求・問題・設計が狙いがちな仮想焦点",
+      "en": "A virtual focal point that desire, problems, and design tend to aim at."
+    },
+    "sources": [
+      {
+        "title": "Why Doesn't the Sushi Chef Smile?",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "095-螺旋",
+    "rank": 95,
+    "term": {
+      "ja": "螺旋",
+      "en": "Spiral"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "渦を巻きながら進む形。",
+      "en": "A spiral."
+    },
+    "misreading": {
+      "ja": "環境・美意識・デザインが相互に強化される循環",
+      "en": "A cycle in which environment, aesthetics, and design reinforce each other."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "096-読む",
+    "rank": 96,
+    "term": {
+      "ja": "読む",
+      "en": "Reading"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "文字や記号を理解すること。",
+      "en": "To read."
+    },
+    "misreading": {
+      "ja": "風土や場所の条件を解釈すること",
+      "en": "To interpret the conditions of a place or climate."
+    },
+    "sources": [
+      {
+        "title": "Designing with Fuudo",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "097-測る",
+    "rank": 97,
+    "term": {
+      "ja": "測る",
+      "en": "Measuring"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "長さ、量、程度などを調べること。",
+      "en": "To measure."
+    },
+    "misreading": {
+      "ja": "鮮やかさ・物差し・複数尺度で世界を捉えること",
+      "en": "To grasp the world through vividness and multiple measures."
+    },
+    "sources": [
+      {
+        "title": "How We Measure Distance by Vividness",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "098-開く",
+    "rank": 98,
+    "term": {
+      "ja": "開く",
+      "en": "Opening"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "閉じているものをあけること。",
+      "en": "To open."
+    },
+    "misreading": {
+      "ja": "場所や関係を通りへ差し出すこと",
+      "en": "To offer a place or relation slightly toward the street."
+    },
+    "sources": [
+      {
+        "title": "On letting fifty centimeters speak three hundred years",
+        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "099-立つ",
+    "rank": 99,
+    "term": {
+      "ja": "立つ",
+      "en": "Standing"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "体を起こして足で支えること。",
+      "en": "To stand."
+    },
+    "misreading": {
+      "ja": "倫理的・地理的・関係的な位置を選ぶこと",
+      "en": "To choose an ethical, geographical, or relational position."
+    },
+    "sources": [
+      {
+        "title": "On letting fifty centimeters speak three hundred years",
+        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "100-届く",
+    "rank": 100,
+    "term": {
+      "ja": "届く",
+      "en": "Reaching"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "目的の場所や相手に到達すること。",
+      "en": "To reach."
+    },
+    "misreading": {
+      "ja": "小さな設計判断が遠くの行動や生に影響すること",
+      "en": "For a small design judgment to affect distant behavior or life."
+    },
+    "sources": [
+      {
+        "title": "The Left-Handed Rope",
+        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  }
+];
