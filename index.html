@@ -7,6 +7,13 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <div class="top-actions">
+      <div class="language-toggle" aria-label="Language">
+        <button id="langEn" class="active" type="button">EN</button>
+        <button id="langJa" type="button">JP</button>
+      </div>
+    </div>
+
     <header class="site-header">
       <div>
         <p class="eyebrow">Private Lexicon</p>
@@ -20,12 +27,10 @@
     </header>
 
     <main>
-      <section class="controls" aria-label="辞書の操作">
-        <div class="language-toggle" aria-label="Language">
-          <button id="langEn" class="active" type="button">EN</button>
-          <button id="langJa" type="button">JP</button>
-        </div>
+      <button id="toolsToggle" class="tools-toggle" type="button" aria-expanded="false" data-i18n="showTools">Show tools</button>
 
+      <section id="toolsPanel" class="tools-panel is-collapsed">
+        <section class="controls" aria-label="辞書の操作">
         <label class="search-box">
           <span data-i18n="search">Search</span>
           <input id="searchInput" type="search" placeholder="engawa, desire, distance..." autocomplete="off" />
@@ -46,18 +51,17 @@
             <option value="category" data-i18n="categorySort">Category</option>
           </select>
         </label>
-      </section>
+        </section>
 
-      <section class="dictionary-layout">
         <aside class="index-panel" aria-label="見出し語一覧">
           <div class="panel-title" data-i18n="index">INDEX</div>
           <nav id="termIndex"></nav>
         </aside>
+      </section>
 
-        <section>
-          <div id="activeSummary" class="active-summary"></div>
-          <div id="cards" class="cards" aria-live="polite"></div>
-        </section>
+      <section class="dictionary-layout">
+        <div id="activeSummary" class="active-summary"></div>
+        <div id="cards" class="cards" aria-live="polite"></div>
       </section>
     </main>
 

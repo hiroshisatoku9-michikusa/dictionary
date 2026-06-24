@@ -17,6 +17,8 @@ const els = {
   summary: document.querySelector("#activeSummary"),
   langEn: document.querySelector("#langEn"),
   langJa: document.querySelector("#langJa"),
+  toolsToggle: document.querySelector("#toolsToggle"),
+  toolsPanel: document.querySelector("#toolsPanel"),
 };
 
 const copy = {
@@ -34,6 +36,8 @@ const copy = {
     standard: "Standard",
     misreading: "Misread",
     sources: "Articles",
+    showTools: "Show tools",
+    hideTools: "Hide tools",
     empty: "No matching entries.",
     showing: (count) => `${count} entries shown`,
   },
@@ -51,6 +55,8 @@ const copy = {
     standard: "標準義",
     misreading: "誤読義",
     sources: "出典記事",
+    showTools: "検索・索引を表示",
+    hideTools: "検索・索引を隠す",
     empty: "該当する言葉がありません。",
     showing: (count) => `${count}件を表示中`,
   },
@@ -108,6 +114,7 @@ function refreshStaticCopy() {
   });
   els.langEn.classList.toggle("active", state.lang === "en");
   els.langJa.classList.toggle("active", state.lang === "ja");
+  els.toolsToggle.textContent = els.toolsPanel.classList.contains("is-collapsed") ? t.showTools : t.hideTools;
 }
 
 function filteredEntries() {
@@ -219,6 +226,12 @@ els.langEn.addEventListener("click", () => {
 els.langJa.addEventListener("click", () => {
   state.lang = "ja";
   render();
+});
+
+els.toolsToggle.addEventListener("click", () => {
+  const collapsed = els.toolsPanel.classList.toggle("is-collapsed");
+  els.toolsToggle.setAttribute("aria-expanded", String(!collapsed));
+  els.toolsToggle.textContent = collapsed ? copy[state.lang].showTools : copy[state.lang].hideTools;
 });
 
 setupFilters();
