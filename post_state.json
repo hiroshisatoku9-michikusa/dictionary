@@ -1,5 +1,5 @@
 {
-  "next_index": 3,
+  "next_index": 4,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -21,6 +21,13 @@
       "term": "Fuudo Literacy",
       "post_id": "2069827347637751958",
       "posted_at": "2026-06-24T16:57:50Z"
+    },
+    {
+      "entry_id": "004-左綯い",
+      "rank": 4,
+      "term": "Left-Handed Rope",
+      "post_id": "2069932303720083718",
+      "posted_at": "2026-06-24T23:54:53Z"
     }
   ]
 }
