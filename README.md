@@ -65,7 +65,7 @@ python3 misreading-dictionary/tools/build_dictionary.py
 python3 scripts/post_to_x.py --dry-run
 ```
 
-GitHub Actionsで動かす場合は、`WORKFLOW_POST_TO_X.yml.txt` の内容をGitHub上で `.github/workflows/post-to-x.yml` として作成します。スケジュールはJSTの `07:00 / 12:00 / 15:00` に対応しています。
+GitHub Actionsで動かす場合は、`WORKFLOW_POST_TO_X.yml.txt` の内容をGitHub上で `.github/workflows/post-to-x.yml` として作成します。スケジュールはJSTの `00:00 / 08:00 / 21:00` に対応しています。
 
 必要なGitHub Secrets:
 

@@ -50,9 +50,9 @@ def build_post(entry: dict) -> str:
     title = source.get("title", "Article")
     url = source.get("url", "https://hiroshisatoku9-michikusa.github.io/dictionary/")
 
-    prefix = f"Misreading Dictionary #{entry['rank']:03d}\n\n{term}\n\n"
+    prefix = f"Misreading Dictionary #{entry['rank']:03d}\n\n【{term}】\n\n"
     article = f"\n\nArticle: {title}\n{url}"
-    misread_label = "Misread: "
+    misread_label = "My misread: "
 
     remaining = MAX_POST_CHARS - len(prefix) - len(article) - len(misread_label)
 

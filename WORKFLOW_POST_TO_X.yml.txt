@@ -2,8 +2,9 @@ name: Post dictionary entry to X
 
 on:
   schedule:
-    # JST 07:00, 12:00, 15:00
-    - cron: "0 22,3,6 * * *"
+    # JST 00:00, 08:00, 21:00
+    # Chosen to cover US morning, US evening, and Europe lunch/afternoon windows.
+    - cron: "0 12,15,23 * * *"
   workflow_dispatch:
 
 permissions:
