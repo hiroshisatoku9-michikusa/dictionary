@@ -1,5 +1,5 @@
 {
-  "next_index": 2,
+  "next_index": 3,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -14,6 +14,13 @@
       "term": "Tanor",
       "post_id": "2069782154993602819",
       "posted_at": "2026-06-24T13:58:15Z"
+    },
+    {
+      "entry_id": "003-風土リテラシー",
+      "rank": 3,
+      "term": "Fuudo Literacy",
+      "post_id": "2069827347637751958",
+      "posted_at": "2026-06-24T16:57:50Z"
     }
   ]
 }
