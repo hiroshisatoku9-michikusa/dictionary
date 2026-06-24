@@ -2,6 +2,8 @@
 
 `semantic_shift_top100.md` を初期データにした、カード形式の私的辞書です。
 
+公開URL: https://hiroshisatoku9-michikusa.github.io/dictionary/
+
 ## 開き方
 
 `index.html` をブラウザで開きます。データは `dictionary-data.js` に埋め込んでいるので、ローカルファイルとしてそのまま表示できます。
