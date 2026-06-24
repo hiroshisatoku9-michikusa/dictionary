@@ -54,3 +54,22 @@ python3 misreading-dictionary/tools/build_dictionary.py
   "status": "draft"
 }
 ```
+
+## X自動投稿
+
+`scripts/post_to_x.py` が `dictionary_entries.json` から次のエントリを1件選び、英語でXへ投稿します。投稿後は `post_state.json` の `next_index` が進みます。
+
+ローカルで投稿文だけ確認するには:
+
+```sh
+python3 scripts/post_to_x.py --dry-run
+```
+
+GitHub Actionsで動かす場合は、`WORKFLOW_POST_TO_X.yml.txt` の内容をGitHub上で `.github/workflows/post-to-x.yml` として作成します。スケジュールはJSTの `07:00 / 12:00 / 15:00` に対応しています。
+
+必要なGitHub Secrets:
+
+- `X_API_KEY`
+- `X_API_SECRET`
+- `X_ACCESS_TOKEN`
+- `X_ACCESS_TOKEN_SECRET`
