@@ -1,5 +1,5 @@
 {
-  "next_index": 1,
+  "next_index": 2,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -7,6 +7,13 @@
       "term": "Engawa",
       "post_id": "2069734119467065595",
       "posted_at": "2026-06-24T10:47:22Z"
+    },
+    {
+      "entry_id": "002-タノール",
+      "rank": 2,
+      "term": "Tanor",
+      "post_id": "2069782154993602819",
+      "posted_at": "2026-06-24T13:58:15Z"
     }
   ]
 }
