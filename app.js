@@ -19,6 +19,7 @@ const els = {
   langJa: document.querySelector("#langJa"),
   toolsToggle: document.querySelector("#toolsToggle"),
   toolsPanel: document.querySelector("#toolsPanel"),
+  pullRefresh: document.querySelector("#pullRefresh"),
 };
 
 const copy = {
@@ -38,6 +39,9 @@ const copy = {
     sources: "Articles",
     showTools: "Show tools",
     hideTools: "Hide tools",
+    pull: "Pull to refresh",
+    release: "Release to refresh",
+    refreshing: "Refreshing",
     empty: "No matching entries.",
     showing: (count) => `${count} entries shown`,
   },
@@ -57,6 +61,9 @@ const copy = {
     sources: "出典記事",
     showTools: "検索・索引を表示",
     hideTools: "検索・索引を隠す",
+    pull: "引いて更新",
+    release: "離して更新",
+    refreshing: "更新中",
     empty: "該当する言葉がありません。",
     showing: (count) => `${count}件を表示中`,
   },
@@ -129,6 +136,7 @@ function refreshStaticCopy() {
   els.langEn.classList.toggle("active", state.lang === "en");
   els.langJa.classList.toggle("active", state.lang === "ja");
   els.toolsToggle.textContent = els.toolsPanel.classList.contains("is-collapsed") ? t.showTools : t.hideTools;
+  els.pullRefresh.querySelector("span").textContent = t.pull;
 }
 
 function filteredEntries() {
@@ -248,5 +256,71 @@ els.toolsToggle.addEventListener("click", () => {
   els.toolsToggle.textContent = collapsed ? copy[state.lang].showTools : copy[state.lang].hideTools;
 });
 
+function setupPullToRefresh() {
+  if (!("ontouchstart" in window) || !els.pullRefresh) return;
+
+  const threshold = 86;
+  let startX = 0;
+  let startY = 0;
+  let pullDistance = 0;
+  let active = false;
+  let ready = false;
+
+  function reset() {
+    active = false;
+    ready = false;
+    pullDistance = 0;
+    els.pullRefresh.classList.remove("is-visible", "is-ready", "is-refreshing");
+    els.pullRefresh.style.transform = "";
+    els.pullRefresh.querySelector("span").textContent = copy[state.lang].pull;
+  }
+
+  window.addEventListener(
+    "touchstart",
+    (event) => {
+      if (window.scrollY > 0 || event.touches.length !== 1) return;
+      const target = event.target;
+      if (target instanceof Element && target.closest("button, a, input, select, textarea")) return;
+      startX = event.touches[0].clientX;
+      startY = event.touches[0].clientY;
+      active = true;
+    },
+    { passive: true }
+  );
+
+  window.addEventListener(
+    "touchmove",
+    (event) => {
+      if (!active || event.touches.length !== 1) return;
+      const touch = event.touches[0];
+      const deltaX = Math.abs(touch.clientX - startX);
+      const deltaY = touch.clientY - startY;
+      if (deltaY <= 0 || deltaX > deltaY) return reset();
+
+      pullDistance = Math.min(deltaY * 0.5, 112);
+      ready = pullDistance >= threshold;
+      els.pullRefresh.classList.add("is-visible");
+      els.pullRefresh.classList.toggle("is-ready", ready);
+      els.pullRefresh.style.transform = `translate(-50%, ${Math.round(pullDistance - 52)}px)`;
+      els.pullRefresh.querySelector("span").textContent = ready ? copy[state.lang].release : copy[state.lang].pull;
+    },
+    { passive: true }
+  );
+
+  window.addEventListener("touchend", () => {
+    if (!active) return;
+    if (ready) {
+      els.pullRefresh.classList.add("is-refreshing");
+      els.pullRefresh.querySelector("span").textContent = copy[state.lang].refreshing;
+      window.location.reload();
+      return;
+    }
+    reset();
+  });
+
+  window.addEventListener("touchcancel", reset);
+}
+
 setupFilters();
+setupPullToRefresh();
 render();
