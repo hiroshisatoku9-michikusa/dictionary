@@ -12,27 +12,27 @@ JSON_OUT = APP_DIR / "dictionary_entries.json"
 JS_OUT = APP_DIR / "dictionary-data.js"
 MANUAL = APP_DIR / "manual_entries.json"
 
-MAP_URL = "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+SITE_URL = "https://hiroshisatoku9-michikusa.github.io/dictionary/"
 
 ARTICLES = {
-    "map": {"title": "A map of my writing", "url": MAP_URL},
+    "dictionary": {"title": "Misreading Dictionary", "url": SITE_URL},
     "engawa": {"title": "What sits on the engawa", "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713"},
     "fable": {"title": "The first thing I made with Fable is very small", "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"},
     "prompt": {"title": "Exapted for the AI prompt", "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1"},
     "ai": {"title": "AI sycophancy is over. The harder part is just starting.", "url": "https://medium.com/before-the-words/ai-sycophancy-is-over-the-harder-part-is-just-starting-f53b0c21bf17"},
     "box": {"title": "Foreman, guardian, team builder: all this is a box", "url": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba"},
     "lines": {"title": "Designing Locality, by Redrawing the Lines", "url": "https://uxdesign.cc/designing-locality-by-redrawing-the-lines-120200ee81df"},
-    "past": {"title": "On letting fifty centimeters speak three hundred years", "url": "https://uxdesign.cc/past-form-future-use-05b112952374"},
+    "past": {"title": "On letting fifty centimeters speak three hundred years", "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"},
     "refs": {"title": "The references I can no longer make", "url": "https://medium.com/philosophytoday/the-references-i-can-no-longer-make-0bfbb56fd87f"},
-    "fuudo": {"title": "Designing with Fuudo", "url": MAP_URL},
-    "sushi": {"title": "Why Doesn't the Sushi Chef Smile?", "url": MAP_URL},
-    "vividness": {"title": "How We Measure Distance by Vividness", "url": MAP_URL},
-    "migrant": {"title": "A Letter from a Migrant", "url": MAP_URL},
-    "pipe": {"title": "The One Dimensional Pipe", "url": MAP_URL},
-    "closing": {"title": "The Closing Concern", "url": MAP_URL},
-    "evening": {"title": "Where the Evening Keeps Going", "url": MAP_URL},
-    "street": {"title": "Opening Your Place to the Street", "url": MAP_URL},
-    "rope": {"title": "The Left-Handed Rope", "url": MAP_URL},
+    "fuudo": {"title": "Designing with fuudo: Notes from the edge of Japan", "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"},
+    "sushi": {"title": "Why Doesn't the Sushi Chef Smile?", "url": ""},
+    "vividness": {"title": "How we measure distance by vividness", "url": "https://medium.com/before-the-words/how-we-measure-distance-by-vividness-dce46130e0c3"},
+    "migrant": {"title": "A Letter from a Migrant", "url": ""},
+    "pipe": {"title": "The one-dimensional pipe between two high-dimensional minds", "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e"},
+    "closing": {"title": "The Closing Concern", "url": ""},
+    "evening": {"title": "Where the evening keeps going", "url": "https://medium.com/before-the-words/where-the-evening-keeps-going-d3e591e7ef96"},
+    "street": {"title": "Opening your place to the street", "url": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca"},
+    "rope": {"title": "The left-handed rope: On a sacred design pattern, and the long reach of small reversals", "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e"},
 }
 
 CATEGORIES = {
@@ -490,11 +490,15 @@ def category_for(term: str) -> dict:
 
 def sources_for(term: str) -> list[dict]:
     sources = []
+    matched = False
     for article_id, terms in SOURCE_GROUPS.items():
         if term in terms:
-            sources.append(ARTICLES[article_id])
-    if not sources:
-        sources.append(ARTICLES["map"])
+            matched = True
+            article = ARTICLES[article_id]
+            if article["url"]:
+                sources.append(article)
+    if not sources and not matched:
+        sources.append(ARTICLES["dictionary"])
     return sources
 
 

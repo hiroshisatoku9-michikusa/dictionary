@@ -20,6 +20,7 @@ ENTRIES_PATH = ROOT / "dictionary_entries.json"
 STATE_PATH = ROOT / "post_state.json"
 POST_URL = "https://api.x.com/2/tweets"
 MAX_POST_CHARS = 280
+SITE_URL = "https://hiroshisatoku9-michikusa.github.io/dictionary/"
 
 
 def pct(value: str) -> str:
@@ -46,12 +47,13 @@ def shorten(text: str, limit: int) -> str:
 def build_post(entry: dict) -> str:
     term = entry["term"]["en"]
     misread = entry["misreading"]["en"]
-    source = entry.get("sources", [{}])[0]
-    title = source.get("title", "Article")
-    url = source.get("url", "https://hiroshisatoku9-michikusa.github.io/dictionary/")
+    source = (entry.get("sources") or [{}])[0]
+    title = source.get("title", "Misreading Dictionary")
+    url = source.get("url", SITE_URL)
 
     prefix = f"Misreading Dictionary #{entry['rank']:03d}\n\n【{term}】\n\n"
-    article = f"\n\nArticle: {title}\n{url}"
+    source_label = "Dictionary" if url == SITE_URL else "Article"
+    article = f"\n\n{source_label}: {title}\n{url}"
     misread_label = "My misread: "
 
     remaining = MAX_POST_CHARS - len(prefix) - len(article) - len(misread_label)

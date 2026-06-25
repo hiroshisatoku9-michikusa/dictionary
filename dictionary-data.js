@@ -48,12 +48,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "言語化前の複雑な美意識・作法・抑制の束",
       "en": "A dense bundle of unspoken local beauty, etiquette, restraint, and felt rightness."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -79,8 +74,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -108,8 +103,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "The Left-Handed Rope",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "The left-handed rope: On a sacred design pattern, and the long reach of small reversals",
+        "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e"
       }
     ],
     "notes": "",
@@ -195,8 +190,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "The One Dimensional Pipe",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "The one-dimensional pipe between two high-dimensional minds",
+        "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e"
       }
     ],
     "notes": "",
@@ -224,8 +219,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "The One Dimensional Pipe",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "The one-dimensional pipe between two high-dimensional minds",
+        "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e"
       }
     ],
     "notes": "",
@@ -398,8 +393,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -427,8 +422,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -454,12 +449,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "人間の多様性を支える生息条件",
       "en": "A habitat condition that sustains human diversity."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -485,8 +475,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -512,12 +502,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "固有の生態系・倫理・判断基準の場",
       "en": "A field of ecology, ethics, and local judgment."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -541,12 +526,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "人が生きられる形を条件づける媒体",
       "en": "A medium that conditions the shapes in which people can live."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -572,8 +552,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "How We Measure Distance by Vividness",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "How we measure distance by vividness",
+        "url": "https://medium.com/before-the-words/how-we-measure-distance-by-vividness-dce46130e0c3"
       }
     ],
     "notes": "",
@@ -601,8 +581,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "How We Measure Distance by Vividness",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "How we measure distance by vividness",
+        "url": "https://medium.com/before-the-words/how-we-measure-distance-by-vividness-dce46130e0c3"
       }
     ],
     "notes": "",
@@ -630,8 +610,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "How We Measure Distance by Vividness",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "How we measure distance by vividness",
+        "url": "https://medium.com/before-the-words/how-we-measure-distance-by-vividness-dce46130e0c3"
       }
     ],
     "notes": "",
@@ -659,8 +639,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "How We Measure Distance by Vividness",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "How we measure distance by vividness",
+        "url": "https://medium.com/before-the-words/how-we-measure-distance-by-vividness-dce46130e0c3"
       }
     ],
     "notes": "",
@@ -688,8 +668,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "How We Measure Distance by Vividness",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "How we measure distance by vividness",
+        "url": "https://medium.com/before-the-words/how-we-measure-distance-by-vividness-dce46130e0c3"
       }
     ],
     "notes": "",
@@ -718,7 +698,7 @@ window.MISREADING_DICTIONARY = [
     "sources": [
       {
         "title": "On letting fifty centimeters speak three hundred years",
-        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+        "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
       }
     ],
     "notes": "",
@@ -744,12 +724,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "組織が世界から消すべき苦しみの単位",
       "en": "A unit of suffering an organization exists to remove from the world."
     },
-    "sources": [
-      {
-        "title": "The Closing Concern",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -773,12 +748,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "世界の問題が並ぶ倫理的台帳",
       "en": "An ethical ledger of the world's problems."
     },
-    "sources": [
-      {
-        "title": "The Closing Concern",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -802,12 +772,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "組織が自らの必要性を閉じる理想",
       "en": "The ideal moment when an organization can close its own necessity."
     },
-    "sources": [
-      {
-        "title": "The Closing Concern",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -831,12 +796,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "組織が応答すべき問題への向き",
       "en": "The direction of response toward the problem an organization should answer."
     },
-    "sources": [
-      {
-        "title": "The Closing Concern",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -862,8 +822,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Where the Evening Keeps Going",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Where the evening keeps going",
+        "url": "https://medium.com/before-the-words/where-the-evening-keeps-going-d3e591e7ef96"
       }
     ],
     "notes": "",
@@ -891,8 +851,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Where the Evening Keeps Going",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Where the evening keeps going",
+        "url": "https://medium.com/before-the-words/where-the-evening-keeps-going-d3e591e7ef96"
       }
     ],
     "notes": "",
@@ -920,8 +880,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Where the Evening Keeps Going",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Where the evening keeps going",
+        "url": "https://medium.com/before-the-words/where-the-evening-keeps-going-d3e591e7ef96"
       }
     ],
     "notes": "",
@@ -950,7 +910,7 @@ window.MISREADING_DICTIONARY = [
     "sources": [
       {
         "title": "On letting fifty centimeters speak three hundred years",
-        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+        "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
       }
     ],
     "notes": "",
@@ -979,7 +939,7 @@ window.MISREADING_DICTIONARY = [
     "sources": [
       {
         "title": "On letting fifty centimeters speak three hundred years",
-        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+        "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
       }
     ],
     "notes": "",
@@ -1008,7 +968,7 @@ window.MISREADING_DICTIONARY = [
     "sources": [
       {
         "title": "On letting fifty centimeters speak three hundred years",
-        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+        "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
       }
     ],
     "notes": "",
@@ -1037,7 +997,7 @@ window.MISREADING_DICTIONARY = [
     "sources": [
       {
         "title": "On letting fifty centimeters speak three hundred years",
-        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+        "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
       }
     ],
     "notes": "",
@@ -1066,7 +1026,7 @@ window.MISREADING_DICTIONARY = [
     "sources": [
       {
         "title": "On letting fifty centimeters speak three hundred years",
-        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+        "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
       }
     ],
     "notes": "",
@@ -1326,8 +1286,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "The One Dimensional Pipe",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "The one-dimensional pipe between two high-dimensional minds",
+        "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e"
       }
     ],
     "notes": "",
@@ -1500,8 +1460,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "The One Dimensional Pipe",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "The one-dimensional pipe between two high-dimensional minds",
+        "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e"
       }
     ],
     "notes": "",
@@ -1529,8 +1489,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "The One Dimensional Pipe",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "The one-dimensional pipe between two high-dimensional minds",
+        "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e"
       }
     ],
     "notes": "",
@@ -1904,12 +1864,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "早すぎる変更を遅らせる知の働き",
       "en": "Knowledge that slows change that is moving too fast."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -1933,12 +1888,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "不可逆な変更にぶつける慎重さ",
       "en": "Caution applied against irreversible change."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -1962,12 +1912,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "移住者が選ぶ積極的な倫理",
       "en": "An active ethic chosen by a migrant."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -1991,12 +1936,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "既存のタノールを解く危険を持つ介入",
       "en": "An intervention that may unravel existing tanor."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2020,12 +1960,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "場所の複雑性を保つ最後の保持点",
       "en": "A last holding point that preserves the complexity of a place."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2049,12 +1984,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "局所の喪失が全体を崩す複雑系の比喩",
       "en": "A complex system where local loss can unravel the whole."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2078,12 +2008,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "人がその人らしく生きられるローカリティ",
       "en": "A locality where a person can live as themselves."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2107,12 +2032,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "複雑系の大事なものを省略しがちな単純化",
       "en": "A simplification that often omits what matters most in complex systems."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2136,12 +2056,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "感覚を捕まえすぎてしまう言語化の比喩",
       "en": "Language as a net that can over-capture sensation."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2165,12 +2080,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "気づかれにくい価値を見つけ出す能力",
       "en": "The ability to find value that has become hard to notice."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2194,12 +2104,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "場への所属や承認を成立させる暗黙知",
       "en": "Tacit knowledge that makes belonging and recognition possible."
     },
-    "sources": [
-      {
-        "title": "A Letter from a Migrant",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2223,12 +2128,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "承認が与えられる／獲得される舞台",
       "en": "A stage on which recognition is given or earned."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2252,12 +2152,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "緊張を通じて欲望を教育するサービス空間",
       "en": "A service space that educates desire through tension."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2281,12 +2176,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "承認が自動付与される設計記号",
       "en": "A design sign that recognition has already been granted."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2310,12 +2200,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "高い承認を獲得するための条件",
       "en": "A condition for earning higher recognition."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2339,12 +2224,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "時に少なさによって価値を立ち上げるもの",
       "en": "Something whose value can sometimes arise through restraint."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2368,12 +2248,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "難しいコードを乗りこなした自己肯定",
       "en": "Self-affirmation gained by navigating demanding cultural codes."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2397,12 +2272,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "現在の欲求を固定的に扱う限界ある枠組み",
       "en": "A limited frame that fixes users in their current desires."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2426,12 +2296,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "未来の欲求を含めて人間を見る視点",
       "en": "A view of the human that includes future desires."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2455,12 +2320,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "経験によって「なりうる存在」",
       "en": "A becoming being shaped by experience."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2484,12 +2344,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "現在だけでなく未来にも生成されうるもの",
       "en": "Something that can be generated in the future, not only supplied now."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2513,12 +2368,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "環境に形づくられる可塑的な方向",
       "en": "A plastic direction shaped by environment."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2542,12 +2392,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "欲望や社会を分岐させる深い属性",
       "en": "A deep property that branches desire and society."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2571,12 +2416,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "欲望の向きを変える経験設計",
       "en": "Experience design that changes the direction of desire."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2602,8 +2442,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -2631,8 +2471,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -2660,8 +2500,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -2689,8 +2529,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -2716,12 +2556,7 @@ window.MISREADING_DICTIONARY = [
       "ja": "欲求・問題・設計が狙いがちな仮想焦点",
       "en": "A virtual focal point that desire, problems, and design tend to aim at."
     },
-    "sources": [
-      {
-        "title": "Why Doesn't the Sushi Chef Smile?",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
-      }
-    ],
+    "sources": [],
     "notes": "",
     "status": "seed"
   },
@@ -2747,8 +2582,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -2776,8 +2611,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "Designing with Fuudo",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "Designing with fuudo: Notes from the edge of Japan",
+        "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
       }
     ],
     "notes": "",
@@ -2805,8 +2640,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "How We Measure Distance by Vividness",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "How we measure distance by vividness",
+        "url": "https://medium.com/before-the-words/how-we-measure-distance-by-vividness-dce46130e0c3"
       }
     ],
     "notes": "",
@@ -2835,7 +2670,7 @@ window.MISREADING_DICTIONARY = [
     "sources": [
       {
         "title": "On letting fifty centimeters speak three hundred years",
-        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+        "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
       }
     ],
     "notes": "",
@@ -2864,7 +2699,7 @@ window.MISREADING_DICTIONARY = [
     "sources": [
       {
         "title": "On letting fifty centimeters speak three hundred years",
-        "url": "https://uxdesign.cc/past-form-future-use-05b112952374"
+        "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
       }
     ],
     "notes": "",
@@ -2892,8 +2727,8 @@ window.MISREADING_DICTIONARY = [
     },
     "sources": [
       {
-        "title": "The Left-Handed Rope",
-        "url": "https://medium.com/@hiroshi.sato.isg/a-map-of-my-writing-0f09d2f81bf8"
+        "title": "The left-handed rope: On a sacred design pattern, and the long reach of small reversals",
+        "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e"
       }
     ],
     "notes": "",
