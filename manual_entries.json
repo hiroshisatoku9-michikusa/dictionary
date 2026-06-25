@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "id": "101-海",
+    "rank": 101,
+    "term": {
+      "ja": "海",
+      "en": "Sea"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "陸地を隔てて広がる塩水の大きな水域。",
+      "en": "A large body of salt water that lies between lands."
+    },
+    "misreading": {
+      "ja": "島々を隔てる壁ではなく、生活と耕作を往復させる結合の媒体。",
+      "en": "Not a wall between islands, but a medium that lets life and cultivation move back and forth."
+    },
+    "sources": [],
+    "notes": "From: The southern shore that is in the north",
+    "status": "draft"
+  },
+  {
+    "id": "102-陸",
+    "rank": 102,
+    "term": {
+      "ja": "陸",
+      "en": "Land"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "海や川などの水面ではない、地表の乾いた部分。",
+      "en": "The dry surface of the earth, as opposed to sea or water."
+    },
+    "misreading": {
+      "ja": "つながりの前提ではなく、道が切り開かれるまで人を隔てるもの。",
+      "en": "Not the default condition of connection, but what keeps people apart until a road is cut open."
+    },
+    "sources": [],
+    "notes": "From: The southern shore that is in the north",
+    "status": "draft"
+  },
+  {
+    "id": "103-道",
+    "rank": 103,
+    "term": {
+      "ja": "道",
+      "en": "Road"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "人や車などが通るために設けられた経路。",
+      "en": "A route made for people, vehicles, or movement."
+    },
+    "misreading": {
+      "ja": "自然な接続ではなく、切実な必要と労苦によって陸に刻まれる関係。",
+      "en": "Not a natural connection, but a relation carved into land by need and labor."
+    },
+    "sources": [],
+    "notes": "From: The southern shore that is in the north",
+    "status": "draft"
+  },
+  {
+    "id": "104-歌",
+    "rank": 104,
+    "term": {
+      "ja": "歌",
+      "en": "Song"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "声に旋律やリズムをつけて表現される言葉や音楽。",
+      "en": "Words or music expressed with voice, melody, and rhythm."
+    },
+    "misreading": {
+      "ja": "土地と感情を古い時間から運んでくる風土のタイムカプセル。",
+      "en": "A time capsule of locality and feeling carried forward from an older time."
+    },
+    "sources": [],
+    "notes": "From: The southern shore that is in the north",
+    "status": "draft"
+  },
+  {
+    "id": "105-南端",
+    "rank": 105,
+    "term": {
+      "ja": "南端",
+      "en": "Southern End"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "ある範囲や土地の最も南にある端。",
+      "en": "The southernmost edge of a place or region."
+    },
+    "misreading": {
+      "ja": "海の向こうにありながら、生活圏のこちら側に属している端。",
+      "en": "An edge across the water that still belongs to this side of lived territory."
+    },
+    "sources": [],
+    "notes": "From: The southern shore that is in the north",
+    "status": "draft"
+  },
+  {
+    "id": "106-通い耕作",
+    "rank": 106,
+    "term": {
+      "ja": "通い耕作",
+      "en": "Commuting Cultivation"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "住む場所とは別の土地へ通って作物を育てる農耕のあり方。",
+      "en": "A form of farming in which people travel from where they live to cultivate fields elsewhere."
+    },
+    "misreading": {
+      "ja": "海が隔たりではなく生活インフラだったことを示す日々の往復リズム。",
+      "en": "A daily rhythm proving that the sea once worked less as separation than as living infrastructure."
+    },
+    "sources": [],
+    "notes": "From: The southern shore that is in the north",
+    "status": "draft"
+  },
+  {
+    "id": "107-陸の孤島",
+    "rank": 107,
+    "term": {
+      "ja": "陸の孤島",
+      "en": "Land-Island"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "陸続きでありながら交通が不便で孤立した場所。",
+      "en": "A place on land that is isolated because access is difficult."
+    },
+    "misreading": {
+      "ja": "例外的な不便ではなく、道がまだない陸のもともとの姿。",
+      "en": "Not an exceptional inconvenience, but the original condition of land before roads arrive."
+    },
+    "sources": [],
+    "notes": "From: The southern shore that is in the north",
+    "status": "draft"
+  },
+  {
+    "id": "108-旅",
+    "rank": 108,
+    "term": {
+      "ja": "旅",
+      "en": "Travel"
+    },
+    "kana": "",
+    "category": {
+      "ja": "記憶・時間",
+      "en": "Memory / Time"
+    },
+    "standardMeaning": {
+      "ja": "住んでいる場所を離れて、別の土地へ行くこと。",
+      "en": "Leaving one place and going to another."
+    },
+    "misreading": {
+      "ja": "空間を移動することだけでなく、歌を通って別の時代へ行き来すること。",
+      "en": "Not only movement through space, but movement through song into another time."
+    },
+    "sources": [],
+    "notes": "From: The southern shore that is in the north",
+    "status": "draft"
+  }
+]
