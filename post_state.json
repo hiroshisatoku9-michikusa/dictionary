@@ -1,5 +1,5 @@
 {
-  "next_index": 4,
+  "next_index": 5,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -28,6 +28,13 @@
       "term": "Left-Handed Rope",
       "post_id": "2069932303720083718",
       "posted_at": "2026-06-24T23:54:53Z"
+    },
+    {
+      "entry_id": "005-箱",
+      "rank": 5,
+      "term": "Box",
+      "post_id": "2070143784390938761",
+      "posted_at": "2026-06-25T13:55:14Z"
     }
   ]
 }
