@@ -7,6 +7,8 @@
   --line-strong: #111111;
   --accent: #6fba12;
   --accent-soft: #e7f8cf;
+  --category-accent: var(--accent);
+  --category-soft: var(--accent-soft);
   --shadow: 0 10px 28px rgba(0, 0, 0, 0.07);
 }
 
@@ -69,25 +71,22 @@ h1 {
 }
 
 .header-stats {
-  min-width: 112px;
-  padding: 14px 16px;
-  border: 2px solid var(--line-strong);
-  background: var(--panel);
-  text-align: center;
+  align-self: end;
+  color: var(--muted);
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 12px;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .header-stats span {
-  display: block;
-  font-size: 36px;
-  line-height: 1;
-  font-weight: 780;
-  letter-spacing: -0.04em;
+  color: var(--ink);
+  font-weight: 700;
 }
 
 .header-stats small {
   color: var(--muted);
-  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-  font-size: 11px;
+  font-size: inherit;
 }
 
 main {
@@ -256,14 +255,15 @@ a:focus-visible {
 .dictionary-card {
   min-height: 342px;
   padding: 16px;
-  border: 1px solid var(--line-strong);
+  border: 1px solid var(--category-accent);
+  border-top: 4px solid var(--category-accent);
   background: var(--panel);
   box-shadow: var(--shadow);
 }
 
 .dictionary-card:target {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 4px var(--accent-soft), var(--shadow);
+  border-color: var(--category-accent);
+  box-shadow: 0 0 0 4px var(--category-soft), var(--shadow);
 }
 
 .card-topline {
@@ -277,19 +277,19 @@ a:focus-visible {
 }
 
 .rank {
-  color: var(--accent);
+  color: var(--category-accent);
   font-weight: 800;
 }
 
 .category {
   padding: 2px 7px;
-  border: 1px solid var(--line-strong);
-  background: var(--bg);
+  border: 1px solid var(--category-accent);
+  background: var(--category-soft);
   color: var(--ink);
 }
 
 .card-head {
-  border-top: 3px solid var(--ink);
+  border-top: 3px solid var(--category-accent);
   border-bottom: 1px solid var(--line-strong);
   padding: 12px 0 14px;
 }
@@ -321,7 +321,7 @@ dl > div {
 }
 
 dt {
-  color: var(--accent);
+  color: var(--category-accent);
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 11px;
   font-weight: 700;
@@ -347,7 +347,7 @@ dd {
 }
 
 .source-link:hover {
-  color: var(--accent);
+  color: var(--category-accent);
 }
 
 .notes {
@@ -371,6 +371,7 @@ dd {
 
   .header-stats {
     justify-self: start;
+    text-align: left;
   }
 
   .index-panel {

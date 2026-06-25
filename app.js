@@ -62,6 +62,15 @@ const copy = {
   },
 };
 
+const categoryPalette = {
+  "場所・風土": { accent: "#5f9f16", soft: "#e4f3cf" },
+  "記憶・時間": { accent: "#3d9a78", soft: "#d9f0e7" },
+  "欲望・承認": { accent: "#8c8f19", soft: "#eef0cf" },
+  "AI・思考": { accent: "#2f8f9f", soft: "#d7eef2" },
+  "設計・組織": { accent: "#6c8f24", soft: "#e6edcf" },
+  "その他": { accent: "#6f6f5f", soft: "#ecece4" },
+};
+
 function normalize(text) {
   return String(text || "").toLocaleLowerCase("ja-JP");
 }
@@ -80,6 +89,11 @@ function escapeHtml(text) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
+}
+
+function categoryStyle(category) {
+  const colors = categoryPalette[category?.ja] || categoryPalette["その他"];
+  return `--category-accent: ${colors.accent}; --category-soft: ${colors.soft};`;
 }
 
 function setupFilters() {
@@ -167,7 +181,7 @@ function renderCards(list) {
         .join("");
 
       return `
-        <article class="dictionary-card" id="${escapeHtml(entry.id)}">
+        <article class="dictionary-card" id="${escapeHtml(entry.id)}" style="${categoryStyle(entry.category)}">
           <div class="card-topline">
             <span class="rank">#${entry.rank}</span>
             <span class="category">${escapeHtml(localized(entry.category))}</span>
