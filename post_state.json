@@ -1,5 +1,5 @@
 {
-  "next_index": 5,
+  "next_index": 6,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -35,6 +35,13 @@
       "term": "Box",
       "post_id": "2070143784390938761",
       "posted_at": "2026-06-25T13:55:14Z"
+    },
+    {
+      "entry_id": "006-池",
+      "rank": 6,
+      "term": "Pond",
+      "post_id": "2070190595327267265",
+      "posted_at": "2026-06-25T17:01:15Z"
     }
   ]
 }
