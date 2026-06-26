@@ -1,5 +1,5 @@
 {
-  "next_index": 9,
+  "next_index": 10,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -63,6 +63,13 @@
       "term": "Exaptation",
       "post_id": "2070551106644574594",
       "posted_at": "2026-06-26T16:53:47Z"
+    },
+    {
+      "entry_id": "010-欲望",
+      "rank": 10,
+      "term": "Desire",
+      "post_id": "2070656320911606107",
+      "posted_at": "2026-06-26T23:51:52Z"
     }
   ]
 }
