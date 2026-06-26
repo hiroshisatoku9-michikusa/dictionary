@@ -1,5 +1,5 @@
 {
-  "next_index": 8,
+  "next_index": 9,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -56,6 +56,13 @@
       "term": "One-Dimensional Pipe",
       "post_id": "2070505724892135707",
       "posted_at": "2026-06-26T13:53:27Z"
+    },
+    {
+      "entry_id": "009-外適応",
+      "rank": 9,
+      "term": "Exaptation",
+      "post_id": "2070551106644574594",
+      "posted_at": "2026-06-26T16:53:47Z"
     }
   ]
 }
