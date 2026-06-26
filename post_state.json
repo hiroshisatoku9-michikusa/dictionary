@@ -1,5 +1,5 @@
 {
-  "next_index": 6,
+  "next_index": 7,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -42,6 +42,13 @@
       "term": "Pond",
       "post_id": "2070190595327267265",
       "posted_at": "2026-06-25T17:01:15Z"
+    },
+    {
+      "entry_id": "007-通路",
+      "rank": 7,
+      "term": "Passage",
+      "post_id": "2070296410264912012",
+      "posted_at": "2026-06-26T00:01:43Z"
     }
   ]
 }
