@@ -1,5 +1,5 @@
 {
-  "next_index": 12,
+  "next_index": 13,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -84,6 +84,13 @@
       "term": "No",
       "post_id": "2070899094952812825",
       "posted_at": "2026-06-27T15:56:34Z"
+    },
+    {
+      "entry_id": "013-他者",
+      "rank": 13,
+      "term": "Other",
+      "post_id": "2071018070014034360",
+      "posted_at": "2026-06-27T23:49:20Z"
     }
   ]
 }
