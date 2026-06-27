@@ -1,5 +1,5 @@
 {
-  "next_index": 10,
+  "next_index": 11,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -70,6 +70,13 @@
       "term": "Desire",
       "post_id": "2070656320911606107",
       "posted_at": "2026-06-26T23:51:52Z"
+    },
+    {
+      "entry_id": "011-承認",
+      "rank": 11,
+      "term": "Recognition",
+      "post_id": "2070855051510153532",
+      "posted_at": "2026-06-27T13:01:33Z"
     }
   ]
 }
