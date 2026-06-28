@@ -1,5 +1,5 @@
 {
-  "next_index": 13,
+  "next_index": 14,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -91,6 +91,13 @@
       "term": "Other",
       "post_id": "2071018070014034360",
       "posted_at": "2026-06-27T23:49:20Z"
+    },
+    {
+      "entry_id": "014-ブレーキ",
+      "rank": 14,
+      "term": "Brake",
+      "post_id": "2071218776314376539",
+      "posted_at": "2026-06-28T13:06:52Z"
     }
   ]
 }
