@@ -1,5 +1,5 @@
 {
-  "next_index": 17,
+  "next_index": 18,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -119,6 +119,13 @@
       "term": "Edge",
       "post_id": "2071615367873520094",
       "posted_at": "2026-06-29T15:22:47Z"
+    },
+    {
+      "entry_id": "018-島",
+      "rank": 18,
+      "term": "Island",
+      "post_id": "2071742750362411098",
+      "posted_at": "2026-06-29T23:48:57Z"
     }
   ]
 }
