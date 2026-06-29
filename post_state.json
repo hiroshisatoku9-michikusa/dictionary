@@ -1,5 +1,5 @@
 {
-  "next_index": 16,
+  "next_index": 17,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -112,6 +112,13 @@
       "term": "Locality",
       "post_id": "2071382302723096942",
       "posted_at": "2026-06-28T23:56:40Z"
+    },
+    {
+      "entry_id": "017-端",
+      "rank": 17,
+      "term": "Edge",
+      "post_id": "2071615367873520094",
+      "posted_at": "2026-06-29T15:22:47Z"
     }
   ]
 }
