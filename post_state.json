@@ -1,5 +1,5 @@
 {
-  "next_index": 19,
+  "next_index": 20,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -133,6 +133,13 @@
       "term": "Place",
       "post_id": "2071953878048780463",
       "posted_at": "2026-06-30T13:47:54Z"
+    },
+    {
+      "entry_id": "020-距離",
+      "rank": 20,
+      "term": "Distance",
+      "post_id": "2072001977199059166",
+      "posted_at": "2026-06-30T16:59:02Z"
     }
   ]
 }
