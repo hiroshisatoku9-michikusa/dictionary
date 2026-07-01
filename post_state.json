@@ -1,5 +1,5 @@
 {
-  "next_index": 22,
+  "next_index": 23,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -154,6 +154,13 @@
       "term": "Forgetting",
       "post_id": "2072319115390271533",
       "posted_at": "2026-07-01T13:59:13Z"
+    },
+    {
+      "entry_id": "023-霞",
+      "rank": 23,
+      "term": "Haze",
+      "post_id": "2072365432728703198",
+      "posted_at": "2026-07-01T17:03:16Z"
     }
   ]
 }
