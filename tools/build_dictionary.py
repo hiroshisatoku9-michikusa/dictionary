@@ -33,7 +33,9 @@ ARTICLES = {
     "evening": {"title": "Where the evening keeps going", "url": "https://medium.com/before-the-words/where-the-evening-keeps-going-d3e591e7ef96"},
     "street": {"title": "Opening your place to the street", "url": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca"},
     "rope": {"title": "The left-handed rope: On a sacred design pattern, and the long reach of small reversals", "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e"},
-    "southern_shore": {"title": "The southern shore that is in the north", "url": ""},
+    "southern_shore": {"title": "The southern shore that is in the north", "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"},
+    "stone": {"title": "The stone that blocks nothing", "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"},
+    "wetware": {"title": "Wetware ver. Homo Sapiens", "url": ""},
 }
 
 CATEGORIES = {
@@ -369,6 +371,7 @@ SOURCE_GROUPS = {
     "fable": {"物差し", "二本目", "通知簿", "決算書", "Fable", "口実", "川", "かけら", "静か"},
     "sushi": {"寿司屋", "笑顔", "緊張", "もてなし", "贅沢", "人間中心", "脱中心", "ユーザー", "必要", "望み", "質", "教育", "店", "中心"},
     "southern_shore": {"島", "場所", "地図", "線", "川"},
+    "stone": {"場所", "島", "端", "欲望", "開く", "立つ"},
 }
 
 TERM_EN = {

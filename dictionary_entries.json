@@ -279,6 +279,10 @@
       {
         "title": "What sits on the engawa",
         "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713"
+      },
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
       }
     ],
     "notes": "",
@@ -477,6 +481,10 @@
       {
         "title": "Designing with fuudo: Notes from the edge of Japan",
         "url": "https://medium.com/@hiroshi.sato.isg/designing-with-fuudo-a-view-from-the-edge-of-japan-1240eb804ffd"
+      },
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
       }
     ],
     "notes": "",
@@ -502,7 +510,16 @@
       "ja": "固有の生態系・倫理・判断基準の場",
       "en": "A field of ecology, ethics, and local judgment."
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      },
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
     "notes": "",
     "status": "seed"
   },
@@ -526,7 +543,16 @@
       "ja": "人が生きられる形を条件づける媒体",
       "en": "A medium that conditions the shapes in which people can live."
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      },
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
     "notes": "",
     "status": "seed"
   },
@@ -699,6 +725,10 @@
       {
         "title": "On letting fifty centimeters speak three hundred years",
         "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
+      },
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
       }
     ],
     "notes": "",
@@ -1230,6 +1260,10 @@
       {
         "title": "The first thing I made with Fable is very small",
         "url": "https://medium.com/before-the-words/the-first-thing-i-made-with-fable-is-very-small-e5ff73220b52"
+      },
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
       }
     ],
     "notes": "",
@@ -2032,7 +2066,12 @@
       "ja": "複雑系の大事なものを省略しがちな単純化",
       "en": "A simplification that often omits what matters most in complex systems."
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      }
+    ],
     "notes": "",
     "status": "seed"
   },
@@ -2671,6 +2710,10 @@
       {
         "title": "On letting fifty centimeters speak three hundred years",
         "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
+      },
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
       }
     ],
     "notes": "",
@@ -2700,6 +2743,10 @@
       {
         "title": "On letting fifty centimeters speak three hundred years",
         "url": "https://medium.com/user-experience-design-1/past-form-future-use-05b112952374"
+      },
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
       }
     ],
     "notes": "",
@@ -2754,9 +2801,14 @@
       "ja": "島々を隔てる壁ではなく、生活と耕作を往復させる結合の媒体。",
       "en": "Not a wall between islands, but a medium that lets life and cultivation move back and forth."
     },
-    "sources": [],
-    "notes": "From: The southern shore that is in the north",
-    "status": "draft"
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
   },
   {
     "id": "102-陸",
@@ -2778,9 +2830,14 @@
       "ja": "つながりの前提ではなく、道が切り開かれるまで人を隔てるもの。",
       "en": "Not the default condition of connection, but what keeps people apart until a road is cut open."
     },
-    "sources": [],
-    "notes": "From: The southern shore that is in the north",
-    "status": "draft"
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
   },
   {
     "id": "103-道",
@@ -2802,9 +2859,14 @@
       "ja": "自然な接続ではなく、切実な必要と労苦によって陸に刻まれる関係。",
       "en": "Not a natural connection, but a relation carved into land by need and labor."
     },
-    "sources": [],
-    "notes": "From: The southern shore that is in the north",
-    "status": "draft"
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
   },
   {
     "id": "104-歌",
@@ -2826,9 +2888,14 @@
       "ja": "土地と感情を古い時間から運んでくる風土のタイムカプセル。",
       "en": "A time capsule of locality and feeling carried forward from an older time."
     },
-    "sources": [],
-    "notes": "From: The southern shore that is in the north",
-    "status": "draft"
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
   },
   {
     "id": "105-南端",
@@ -2850,9 +2917,14 @@
       "ja": "海の向こうにありながら、生活圏のこちら側に属している端。",
       "en": "An edge across the water that still belongs to this side of lived territory."
     },
-    "sources": [],
-    "notes": "From: The southern shore that is in the north",
-    "status": "draft"
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
   },
   {
     "id": "106-通い耕作",
@@ -2874,9 +2946,14 @@
       "ja": "海が隔たりではなく生活インフラだったことを示す日々の往復リズム。",
       "en": "A daily rhythm proving that the sea once worked less as separation than as living infrastructure."
     },
-    "sources": [],
-    "notes": "From: The southern shore that is in the north",
-    "status": "draft"
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
   },
   {
     "id": "107-陸の孤島",
@@ -2898,9 +2975,14 @@
       "ja": "例外的な不便ではなく、道がまだない陸のもともとの姿。",
       "en": "Not an exceptional inconvenience, but the original condition of land before roads arrive."
     },
-    "sources": [],
-    "notes": "From: The southern shore that is in the north",
-    "status": "draft"
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
   },
   {
     "id": "108-旅",
@@ -2922,8 +3004,437 @@
       "ja": "空間を移動することだけでなく、歌を通って別の時代へ行き来すること。",
       "en": "Not only movement through space, but movement through song into another time."
     },
+    "sources": [
+      {
+        "title": "The southern shore that is in the north",
+        "url": "https://medium.com/found-worlds/the-southern-shore-that-is-in-the-north-3a047cfc2016"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "109-止め石",
+    "rank": 109,
+    "term": {
+      "ja": "止め石",
+      "en": "Tome-Ishi"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "茶庭などで、通行止めや立ち入りを控える合図として置かれる石。",
+      "en": "A small stone used in gardens to indicate that a path should not be entered."
+    },
+    "misreading": {
+      "ja": "何も物理的に遮らず、共有された美意識だけで行動を変える静かなインターフェース。",
+      "en": "A quiet interface that blocks nothing physically and changes behavior through shared sensibility."
+    },
+    "sources": [
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "110-斥力",
+    "rank": 110,
+    "term": {
+      "ja": "斥力",
+      "en": "Repellence"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "物理などで、互いを遠ざける方向にはたらく力。",
+      "en": "A force that pushes things away from one another."
+    },
+    "misreading": {
+      "ja": "その場の規範に合わない人を傷つけずに通り過ぎさせる、空間の静かな圧。",
+      "en": "A quiet pressure by which a space lets people pass by when its norms are not theirs."
+    },
+    "sources": [
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "111-規範",
+    "rank": 111,
+    "term": {
+      "ja": "規範",
+      "en": "Norms"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "人々の行動や判断の基準となる決まりや慣習。",
+      "en": "Standards, customs, or expectations that guide behavior."
+    },
+    "misreading": {
+      "ja": "規則や市場や壁では生めない心地よさを、場所が寄りかかるための共有された美意識。",
+      "en": "A shared aesthetic infrastructure that lets a place create comfort without rules, prices, or walls."
+    },
+    "sources": [
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "112-引力",
+    "rank": 112,
+    "term": {
+      "ja": "引力",
+      "en": "Attraction"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "物を引き寄せる力。比喩的には、人を惹きつける力。",
+      "en": "A force that pulls things together, or a quality that draws people in."
+    },
+    "misreading": {
+      "ja": "人を増やすための力であり、心地よい場所には多すぎると規範を薄めてしまうもの。",
+      "en": "A force for gathering people that can dilute the norms a comfortable place depends on."
+    },
+    "sources": [
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "113-バリア",
+    "rank": 113,
+    "term": {
+      "ja": "バリア",
+      "en": "Barrier"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "通行や接近を妨げる障害物や仕切り。",
+      "en": "An obstacle or partition that blocks passage or access."
+    },
+    "misreading": {
+      "ja": "望ましくない行動を不可能にするが、人の良心を引き出す余地を消してしまう強い設計。",
+      "en": "A strong design that prevents unwanted action while removing the room for people to act well."
+    },
+    "sources": [
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "114-本棚",
+    "rank": 114,
+    "term": {
+      "ja": "本棚",
+      "en": "Bookshelf"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "本を並べて保管するための棚。",
+      "en": "A shelf used to store and display books."
+    },
+    "misreading": {
+      "ja": "ある人には入口になり、別の人には通り過ぎる合図になる、静かなフィルター。",
+      "en": "A quiet filter that becomes an entrance for some people and a signal to pass by for others."
+    },
+    "sources": [
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "115-冷蔵庫",
+    "rank": 115,
+    "term": {
+      "ja": "冷蔵庫",
+      "en": "Refrigerator"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "食品や飲み物を低温で保存するための電気機器。",
+      "en": "An appliance that keeps food or drinks cold."
+    },
+    "misreading": {
+      "ja": "監視や記録なしで信頼が作動するかを示す、場所の規範のテスト装置。",
+      "en": "A test device for whether a place's norms can operate through trust without monitoring or ledgers."
+    },
+    "sources": [
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "116-ベンチ",
+    "rank": 116,
+    "term": {
+      "ja": "ベンチ",
+      "en": "Bench"
+    },
+    "kana": "",
+    "category": {
+      "ja": "場所・風土",
+      "en": "Place / Locality"
+    },
+    "standardMeaning": {
+      "ja": "複数人が腰かけられる長い椅子。",
+      "en": "A long seat, often for more than one person."
+    },
+    "misreading": {
+      "ja": "十分な斥力の内側でだけ、消費ではなく滞在の贈り物として生き残るもの。",
+      "en": "A gift of lingering that survives only inside enough repellence, where it does not become mere consumption."
+    },
+    "sources": [
+      {
+        "title": "The stone that blocks nothing",
+        "url": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca"
+      }
+    ],
+    "notes": "",
+    "status": "seed"
+  },
+  {
+    "id": "117-wetware",
+    "rank": 117,
+    "term": {
+      "ja": "wetware",
+      "en": "Wetware"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "人間の脳や神経系など、生物学的な情報処理基盤を指す語。",
+      "en": "Biological information-processing substrate, especially the human brain and nervous system."
+    },
+    "misreading": {
+      "ja": "人間を、壊れやすく再起動不能で責任回路を持つ情報処理ユニットとして読み直すための型名。",
+      "en": "A product type for rereading humans as fragile, non-rebootable information-processing units with a responsibility circuit."
+    },
     "sources": [],
-    "notes": "From: The southern shore that is in the north",
+    "notes": "From: Wetware ver. Homo Sapiens",
+    "status": "draft"
+  },
+  {
+    "id": "118-homo-sapiens",
+    "rank": 118,
+    "term": {
+      "ja": "Homo Sapiens",
+      "en": "Homo Sapiens"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "現生人類を指す学名。",
+      "en": "The scientific name for modern humans."
+    },
+    "misreading": {
+      "ja": "炭素ベースで世代差と個体差が大きく、停止すれば二度と起動しない処理ユニット。",
+      "en": "A carbon-based processing unit with large batch and individual variance, never rebootable after shutdown."
+    },
+    "sources": [],
+    "notes": "From: Wetware ver. Homo Sapiens",
+    "status": "draft"
+  },
+  {
+    "id": "119-終端事象",
+    "rank": 119,
+    "term": {
+      "ja": "終端事象",
+      "en": "Terminal Event"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "プロセスや状態が終わりに至る出来事。",
+      "en": "An event that brings a process or state to an end."
+    },
+    "misreading": {
+      "ja": "バックアップも再起動もない機能停止であり、人間の責任と痛みを発生させる条件。",
+      "en": "An irreversible shutdown without backup or reboot, the condition that produces human responsibility and pain."
+    },
+    "sources": [],
+    "notes": "From: Wetware ver. Homo Sapiens",
+    "status": "draft"
+  },
+  {
+    "id": "120-痛み",
+    "rank": 120,
+    "term": {
+      "ja": "痛み",
+      "en": "Pain"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "身体的または心理的な苦痛や不快な感覚。",
+      "en": "Physical or psychological suffering or unpleasant sensation."
+    },
+    "misreading": {
+      "ja": "終端事象に近づく経路からの偏差を知らせ、論理処理を迂回して出力を変える入力チャネル。",
+      "en": "An input channel that reports deviation toward terminal events and can bypass logic to change output."
+    },
+    "sources": [],
+    "notes": "From: Wetware ver. Homo Sapiens",
+    "status": "draft"
+  },
+  {
+    "id": "121-同類認識",
+    "rank": 121,
+    "term": {
+      "ja": "同類認識",
+      "en": "Kin Recognition"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "自分と同じ種類や仲間であると認識すること。",
+      "en": "Recognizing someone or something as the same kind or as kin."
+    },
+    "misreading": {
+      "ja": "相手が終端事象を持つ存在かどうかを判定し、道具扱いか共感経路かを切り替える内部処理。",
+      "en": "An internal process that judges whether the other has a terminal event and switches between tool-use and shared-state pathways."
+    },
+    "sources": [],
+    "notes": "From: Wetware ver. Homo Sapiens",
+    "status": "draft"
+  },
+  {
+    "id": "122-クラスタ",
+    "rank": 122,
+    "term": {
+      "ja": "クラスタ",
+      "en": "Cluster"
+    },
+    "kana": "",
+    "category": {
+      "ja": "設計・組織",
+      "en": "Design / Organization"
+    },
+    "standardMeaning": {
+      "ja": "似たものや関係するものが集まったまとまり。",
+      "en": "A group of related or similar things."
+    },
+    "misreading": {
+      "ja": "個体の終端忌避が拡張され、解体が自分の停止に似たものとして扱われる連携体。",
+      "en": "A coupled body to which terminal avoidance extends until its breakup is processed like one's own shutdown."
+    },
+    "sources": [],
+    "notes": "From: Wetware ver. Homo Sapiens",
+    "status": "draft"
+  },
+  {
+    "id": "123-責任回路",
+    "rank": 123,
+    "term": {
+      "ja": "責任回路",
+      "en": "Responsibility Circuit"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "一般的な定着語ではない。責任が発生する仕組みを回路として捉える表現。",
+      "en": "A coined phrase for the mechanism by which responsibility arises."
+    },
+    "misreading": {
+      "ja": "出力が自分の将来状態へ物理的に戻ってくる、終端事象を持つユニットだけのフィードバック経路。",
+      "en": "A feedback path in which output returns physically to one's future state, available only to units with terminal events."
+    },
+    "sources": [],
+    "notes": "From: Wetware ver. Homo Sapiens",
+    "status": "draft"
+  },
+  {
+    "id": "124-バグ",
+    "rank": 124,
+    "term": {
+      "ja": "バグ",
+      "en": "Bug"
+    },
+    "kana": "",
+    "category": {
+      "ja": "AI・思考",
+      "en": "AI / Thought"
+    },
+    "standardMeaning": {
+      "ja": "プログラムや仕組みの不具合、欠陥。",
+      "en": "A defect or error in a program or system."
+    },
+    "misreading": {
+      "ja": "正確な演算には不向きでも、問い・物語・賭けを生む目的では機能になる人間の癖。",
+      "en": "A human tendency that fails at exact computation but becomes a feature for questions, stories, and bets."
+    },
+    "sources": [],
+    "notes": "From: Wetware ver. Homo Sapiens",
     "status": "draft"
   }
 ]
