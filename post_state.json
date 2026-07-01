@@ -1,5 +1,5 @@
 {
-  "next_index": 21,
+  "next_index": 22,
   "posted": [
     {
       "entry_id": "001-縁側",
@@ -147,6 +147,13 @@
       "term": "Vividness",
       "post_id": "2072106572722118876",
       "posted_at": "2026-06-30T23:54:39Z"
+    },
+    {
+      "entry_id": "022-忘却",
+      "rank": 22,
+      "term": "Forgetting",
+      "post_id": "2072319115390271533",
+      "posted_at": "2026-07-01T13:59:13Z"
     }
   ]
 }
